@@ -1,0 +1,5232 @@
+Risk Inspection Report 
+
+Reference  
+2021INS100835 (Teesta-V) 
+26th of August 2021 
+
+Project Stage: Operational 
+
+Teesta-V Hydro-Electric Project – 510 MW 
+Sikkim, India 
+
+Account 
+M/s National Hydro Power Corporation (NHPC) Limited, India 
+
+Client 
+The New India Assurance Co. Ltd. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENTS 
+
+Sl. No.  Description 
+
+Page No. 
+
+A 
+
+General  
+
+1  Preamble 
+
+2  Scope Of Work 
+
+3  About NHPC  
+
+4  About Teesta-V Power Station 
+
+5  Salient Features 
+
+6  Hydrology 
+
+7  Seismology 
+
+8  Operation History 
+
+B 
+
+Civil & Hydro Mechanical 
+
+9  General Observations 
+
+10  Risk Review & Preventive Measures 
+
+C 
+
+Electro Mechanical 
+
+11  Periodic Maintenance Turbine & Observations 
+
+12  Risk Review & Preventive Measures 
+
+D 
+
+Safety 
+
+13  Safety / Security & Fire Protection System 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+E 
+
+Equipment Importance & Probable Maximum Loss 
+
+14  Equipment Importance 
+
+15  Probable Maximum Loss (PML) 
+
+16  Conclusion  
+
+17  Photographs 
+
+: 
+
+: 
+
+: 
+
+4 
+
+5 
+
+6 
+
+8 
+
+10 
+
+13 
+
+15 
+
+17 
+
+19 
+
+26 
+
+31 
+
+36 
+
+44 
+
+47 
+
+50 
+
+56 
+
+57 
+
+ 
+ 
+ 
+ 
+ 
+Executive Summary 
+
+Teesta-V Power Station is owned and operated by NHPC Limited. The installed 
+
+capacity of Power Station is  510 MW (3x170). The power station is constructed 
+
+on the river scheme with diurnal storage to harness the hydro power potential of 
+
+river  Teesta  for  peaking  during  the  lean  season  and  is  located  in  the  state  of 
+
+Sikkim and 110 KM from Bagdogra Airport by road route. 
+
+The  project  was  commissioned  in  2008  (first  unit  on  28.03.2008,  second  on 
+
+06.02.2008 and third in 20.03.2008). 
+
+The project comprises of a 52 meter high concrete dam with 05 nos. of Spillway 
+
+sluice gates designed for a PMF of 9500 cumec. 
+
+The  powerhouse  has  03-units  of  170  MW  capacity  of  each,  operating  at  a  net 
+
+rated  head  of  197  m.  Annual  Design  Energy  is  1086/1108.17  MU  in  a  90% 
+
+dependable year with 95% machine availability. 
+
+Climate and Rainfall Characteristics  
+
+The  project  catchment  has  its  own  climatic  peculiarities  caused  by  its 
+
+geographical location, relief and altitudinal variation. The maximum and minimum 
+
+temperature  varies  from  37°  C  in  summer  to  8°  C  in  winter  and  the  relative 
+
+humidity varies from 40% to 100%. 
+
+The bulk of the total annual rainfall in the catchment occurs during the months of 
+
+May to October. The average annual rainfall at Damsite (Dikchu) is 2544 mm. 
+
+Water Availability  
+
+The CWC approved water availability series at Teesta-V has been developed on 
+
+the  basis  of  observed  discharges  at  Dikchu.  The  average  annual  runoff  as  per 
+
+the approved water availability series is 7554 MCM. 
+
+Design Flood 
+
+A  Probable  Maximum Flood  of  9500  cumec was  recommended as  design flood 
+
+and later on Revised to 14596 cumec. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Operational History 
+
+The study of plant maintenance was done and following was observed: 
+
+ 
+
+There  has  been  no  major  breakdown  of  Plant  &  Machinery  in  the  last  3 
+
+years. 
+
+ 
+
+The  power  generation  has  not  been  hampered  (except  for  on  some 
+
+occasions due to very minor issues & that too for short period) due to any 
+
+mechanical problems. 
+
+  As  a  routine  measure,  all  the  03  machines  are  taken-up  for  annual 
+
+maintenance  one-by-one  during  the  lean  Flow  Season  (November  – 
+
+February) each year.   
+
+Construction, build & Civil Infrastructure 
+
+In overall analysis for Civil & Hydro-mechanical works, the following is concluded: 
+
+  The  routine  inspection  system  is  in  place  for  all  the  structures,  in                  
+
+Pre-Monsoon and Post-Monsoon Season. 
+
+  All  Civil  structures 
+
+including  Dam,  Spillways,  embankments,  energy 
+
+dissipation  system  and  working  of  Hydromechanical  components  like 
+
+Gates, stop logs, trunnions etc. is are regularly inspected. 
+
+  The  various  instruments  are  installed  at  all  critical  locations  for  capturing 
+
+Hydrometeorological,  Geo-Technical  &  Geodetic  data  for  observing  any 
+
+movements,  distress  and  also  for  the  routine  data  collection  involving 
+
+measurement of water flow, wind, rainfall data etc. 
+
+  The  study  of  above  does  not  indicate  of  any  movements/  distress  in  the 
+
+structure.    
+
+Breakdown History 
+
+There has been no major damage noted in the plant that could have caused loss 
+
+of  generation  or  major  breakdown.  The  insurers  have  been  notified  of  some 
+
+damages  between  2016-2018  but  all  of  them  have  been  minor  and  well  below 
+
+deductible. The damages due to landslides / flash floods primarily have been to 
+
+road works & have not hampered the generation. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+The  generation  data  &  operation  data  of  the  plant  revealed  that  generation  as 
+
+well  as  plant  availability  factor  in  last  5  years  have  always  exceeded  the 
+
+respective annual targets.  
+
+Probable Maximum Loss (PML) 
+
+The generation data & operation data of the machines was studied. 
+
+A  Natural Calamity 
+
+PML – Flood 
+
+PML – Earthquake 
+
+= 
+
+= 
+
+INR 1,022.00 Crores 
+
+INR 2,137.00 Crores 
+
+The PML for BI Shall be in addition to this and can go up to complete indemnity period of 
+
+12 months (INR 594.60 Crore) 
+
+B  Machinery Breakdown 
+
+PML For Breakdown damage & Business Interruption 
+
+= 
+
+INR   355.00 Crores 
+
+C 
+
+Fire & Allied Perils 
+
+PML for Material Damage & Business Interruption  
+
+= 
+
+INR   879.00 Crores 
+
+Conclusion 
+
+  Teesta-V has been designed for a probable maximum flood (PMF) of 9,500 
+
+m3/s. In 2011, CWC revised this to 14,596 m3/s.  
+
+  However,  the  maximum  flood  recorded  over  the  past  20  years  was 
+
+3,397m3/s, in 2002. 
+
+  NHPC  is  monitoring  and  is  conducting  safety  inspections  of  the  dam  and 
+
+other  infrastructure  on  a  regular  basis.  Emergency  action  and  disaster 
+
+management  plans  have  been  prepared 
+
+to  enhance  emergency 
+
+preparedness and response capacity. 
+
+  Site  is  well  connected  by  road  in  all  weather  conditions  and  hence  any 
+
+hindrance in project material can be ruled out. 
+
+  The housekeeping in and around the plant is upto mark. 
+
+  Overall, the project is well maintained and running satisfactory.   
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  PREAMBLE 
+
+M/s  NHPC  Limited  are  major  Hydro-plant  operators  in  the  country  with  over                    
+
+20 plants in operations. All these plants have been insured in Mega Policy. The 
+
+insurers  /  re-insurers  in  consultation  with  the  brokers  wanted  the  risk  review  of 
+
+some of the plants. 
+
+After  due  discussions  &  defining  the  Scope  of  Work,  we  were  appointed  to 
+
+carryout the Risk Inspections.   
+
+The  virtual  inspection  was  carried  out  at  Teesta-V  Power  Station,  East  Sikkim 
+
+District,  Sikkim.  During  the  course  of  inspection,  various  details  of  the  project 
+
+noted,  discussions  held  and  relevant  data  was  procured.  In  addition,  we  have 
+
+conducted several physical visits at the site on earlier occasions.  
+
+We  gratefully  acknowledge  the  kind  co-operation  of  the  following  Insured’s 
+
+officials towards successful completion of this exercise. 
+
+1.1  At NHPC Corporate Office 
+
+Team from Insurance Cell including: 
+
+1.  Mr. Ajay Jain 
+
+:  
+
+General Manager (Finance) 
+
+2.  Mr. Praveen Ghansola :  
+
+Deputy General Manager (Finance) 
+
+3.  Mr. Sanjay Verma 
+
+:  
+
+Senior Manager (Finance) 
+
+1.2  At Teesta-V Power Station 
+
+Technical  teams  from  Civil  Engineering  Division,  Electro  &  Mechanical 
+
+Division and Operations Divisions deputed by Plant head. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  SCOPE OF WORK 
+
+Objective & Scope of Work 
+
+2.1  Objective 
+
+To  carry  out  the  Inspection  and  Risk  Analysis  of  various  Hydro  Electric 
+
+plants of NHPCs. 
+
+2.2  Scope of Work  
+
+The  scope  or  work  as  envisaged  and  discussed  with  brokers.  After 
+
+complete feed back the scope was divided into following main sections: 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+General Review of Project Parameters 
+
+Operational History of Teesta-V Hydropower Plant 
+
+Overall Risk Review including but not limited to: 
+
+ 
+
+ 
+
+Electro-Mechanical 
+
+Civil & Hydro-Mechanical 
+
+Equipment Importance  
+
+Calculation of PML 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  ABOUT NHPC  
+
+NHPC Limited is the largest organization for hydropower development in India. 
+
+At present, NHPC Limited has an installation base of 7071.2 MW from 24 power 
+
+stations  including  02  Solar  Plants  on  ownership  basis  including  same  projects 
+
+taken up in Joint Venture.  
+
+The details of Operational Power Stations (Hydel) are as under: 
+
+Sl. 
+No. 
+
+Name of 
+Project 
+
+State/UT 
+
+Total 
+Capacity 
+(MW) 
+
+Sl. 
+No. 
+
+Name of Project 
+
+State/UT 
+
+Total 
+Capacity 
+(MW) 
+
+1 
+
+Baira Siul  
+
+Himachal Pradesh 
+
+180 
+
+12 
+
+Dulhasti  
+
+UT  of  Jammu  & 
+Kashmir 
+
+390 
+
+2 
+
+Loktak  
+
+Manipur 
+
+105 
+
+13 
+
+Omkareshwar 
+
+Madhya Pradesh 
+
+520 
+
+3 
+
+Salal 
+
+UT  of  Jammu  & 
+Kashmir 
+
+690 
+
+14 
+
+Teesta - V 
+
+Sikkim 
+
+4 
+
+Tanakpur 
+
+Uttarakhand 
+
+94.2 
+
+15 
+
+Sewa - II 
+
+UT  of  Jammu  & 
+Kashmir 
+
+510 
+
+120 
+
+5 
+
+Chamera - I 
+
+Himachal Pradesh 
+
+540 
+
+16 
+
+Chamera-III 
+
+Himachal Pradesh 
+
+231 
+
+6 
+
+Uri - I 
+
+UT  of  Jammu  & 
+Kashmir 
+
+480 
+
+17 
+
+Teesta Low Dam - III 
+
+West Bengal 
+
+132 
+
+7 
+
+8 
+
+Rangit 
+
+Sikkim 
+
+60 
+
+18 
+
+Nimmo-Bazgo 
+
+UT of Ladakh 
+
+Chamera - II 
+
+Himachal Pradesh 
+
+300 
+
+19 
+
+Chutak 
+
+UT of Ladakh 
+
+9 
+
+Indira Sagar 
+
+Madhya Pradesh 
+
+1000 
+
+20 
+
+Uri-II 
+
+UT  of  Jammu  & 
+Kashmir 
+
+45 
+
+44 
+
+240 
+
+10 
+
+Dhauliganga 
+
+Uttarakhand 
+
+280 
+
+21 
+
+Parbati - III 
+
+Himachal Pradesh 
+
+520 
+
+11 
+
+Kishanganga 
+
+UT  of  Jammu  & 
+Kashmir 
+
+330 
+
+22 
+
+Teesta Low Dam - IV 
+
+West Bengal 
+
+160 
+
+3.1  Under Construction Hydro Projects 
+
+  NHPC  is  presently  engaged  in  the  construction  of  6  projects 
+
+aggregating to a total installed capacity of 5774 MW. 
+
+On Ownership basis: 
+
+o  2000 MW Subansiri Lower HEP 
+
+o  800 MW Parbati-II HEP 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Through Subsidiary/ JV Companies: 
+
+o  500 MW Teesta-VI HE Project  
+
+o  1000 MW Pakal Dul HE Project 
+
+o   850 MW Ratle HE Project  
+
+o   624 MW Kiru HE Project.  
+
+ 
+
+In  addition,  16  Hydro  Projects  with  aggregate  capacity  of  10382  MW 
+
+are  under  clearance  stage  which  includes  10  Schemes  of  NHPC’s 
+
+own and 6 in JV mode. Further, 4 projects with aggregate capacity of 
+
+1628 MW are in survey stage. 
+
+3.2  Development of Geothermal Energy 
+
+The Ministry of Non-Conventional Energy Sources (MNES) has appointed 
+
+NHPC Limited as a Nodal Agency for exploitation of Geothermal Energy 
+
+in  the  country.  The  ranking  studies  of  geothermal  fields  in  India  have 
+
+been carried out through an International Consultant viz. M/s Geotherma 
+
+Ex, USA. 
+
+OPERATIONAL POWER STATIONS 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 7 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+4.  ABOUT TEESTA-V POWER STATION 
+
+Teesta-V  Power  Station  (3x170  MW)  is  a  run  of  the  river  scheme  with  diurnal 
+
+storage  to  harness  the  hydro  power potential of  river Teesta for peaking  during 
+
+the lean season and is located in the state of Sikkim and 110 KM from Bagdogra 
+
+Airport by road route. 
+
+The  project  comprises  of  88.6  m  high  Concrete  Gravity  Dam  (located  2  Kms 
+
+downstream  of  its  confluence  with  Dikchu  Nala)  with  three  penstocks  of  length 
+
+321  m  and  17.2  Km  long  Head  Race  Tunnel  housed  on  left  bank.  The 
+
+underground Power House is built near Sirwani with installed capacity of 510 MW 
+
+houses 3 units of 170 MW capacity each designed to operate under the net rated 
+
+head  of  197  m  and  designed  to  generate  2573  MUs  of  energy  in  90% 
+
+dependable year with 95% machine availability. 
+
+The  beneficiary  states  of  this  Power  Station  are  Bihar,  Sikkim,  West  Bengal, 
+
+Orissa, Jharkhand and DVC with the construction of the project, the area is also 
+
+benefitted  by  development  of  infrastructure,  education,  medical  facility  and 
+
+employment avenues. 
+
+4.1  Date of Commissioning 
+
+Unit#1  
+
+Unit#2  
+
+Unit#3  
+
+:  
+
+:  
+
+:  
+
+28.03.2008 
+
+06.02.2008 
+
+20.03.2008 
+
+4.2  Date of Commercial Operation 
+
+Unit#1  
+
+Unit#2  
+
+Unit#3  
+
+:  
+
+:  
+
+:  
+
+10.04.2008 
+
+01.03.2008 
+
+03.04.2008 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  SALIENT FEATURES 
+
+Sl. 
+No. 
+
+1 
+
+Features 
+
+Location 
+
+State 
+
+District 
+
+River 
+
+Latitude 
+
+Longitude 
+
+2 
+
+Hydrology 
+
+Catchment area 
+
+Design flood 
+
+3 
+
+Reservoir 
+
+Description 
+
+Sikkim 
+
+East Sikkim 
+
+Teesta 
+
+27°23’ 08” N 
+
+88° 30’ 20” E 
+
+4307 Sq.km 
+
+9500 Cumec 
+
+4 
+
+Maximum reservoir level 
+
+EL 580.72 M 
+
+Minimum draw down level 
+
+EL 568.00 M 
+
+Gross storage 
+
+Live storage 
+
+Teesta Dam 
+
+9.79 M Cum (Post monsoon 2011) 
+
+6.3 M Cum 
+
+Max. height above river bed level  52.2 m 
+
+Max. height from deepest level 
+
+88.60 m 
+
+Elevation of dam crest 
+
+EL 583.20 M 
+
+Length of dam crest 
+
+176.5 m 
+
+Spillway 
+
+5 
+
+Crest of spillway 
+
+EL 540.00 M 
+
+Type 
+
+Ogee  shaped  with  gated  sluices  and 
+flip bucket 
+
+Design flood 
+
+9500 cumec  
+
+Invert level of the gated sluices 
+
+EL 540.00 M  
+
+Number and size of sluices 
+
+Five (Each 12.0m high, 9.0m wide) 
+
+Energy dissipation 
+
+Flip bucket 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sl. 
+No. 
+
+6 
+
+Features 
+
+Description 
+
+Intake Structure 
+
+Number size of inlets 
+
+Three of 6.5m x 6.5 m 
+
+Discharge capacity 
+
+350.84 Cumec 
+
+Invert level 
+
+EL 554.00 / 556.50 m 
+
+Desiliting Chamber 
+
+7 
+
+Length     
+
+250 m 
+
+Number and size     
+
+Three; 19.7 m x 24.5 m 
+
+Minimum  particle  size 
+removed     
+
+to  be 
+
+0.2 mm 
+
+8 
+
+Head Race Tunnel 
+
+Diameter & Shape     
+
+9.5 m (finished) & Horse-shoe shape 
+
+Discharge capacity     
+
+292.37 Cumec 
+
+Length     
+
+17.2 Km 
+
+Surge Shaft (Concrete Lined) 
+
+Type     
+
+Semi underground (restricted orifice) 
+
+Internal diameter & height 
+
+30.0 m & 90 m 
+
+Pressure Shafts 
+
+Number and type     
+
+Three vertical shafts steel lined 
+
+9 
+
+10 
+
+Diameter (lined)     
+
+Height     
+
+4.7 m 
+
+173.65 m 
+
+11 
+
+Underground Power House 
+
+Installed capacity     
+
+510 MW 
+
+Dimensions of machine hall     
+
+22 x 117.5x 47.5 m high 
+
+Dimensions 
+cavern 
+
+of 
+
+transformer 
+
+14.5x 100.5 x 10.7 m high 
+
+Type of turbine     
+
+Francis, vertical axis 
+
+Number and capacity of units     
+
+3 of 170 MW each 
+
+Gross head     
+
+Rated net head     
+
+215.33 m 
+
+197 m 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sl. 
+No. 
+
+12 
+
+Features 
+
+Description 
+
+Tailrace Tunnel 
+
+Tunnel shape     
+
+D-shaped, 3 nos 
+
+Diameter (finished)   
+
+6.0 m x 5.52 m 
+
+Length     
+
+165 m,175 m & 185 m 
+
+13 
+
+Power Generation Figures 
+
+Installed capacity     
+
+510 MW 
+
+Dry season peaking capacity     
+
+510 MW 
+
+Annual energy production in a     
+
+2573 GWh 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.  HYDROLOGY 
+
+Teesta-V is run-of- the river type of project in which waters of Teesta are being 
+
+diverted by dam at Dikchu, 2km downstream of confluence of Dikchu Nala with 
+
+Teesta River. The power house is located at Sirwani with an installed capacity of 
+
+510 MW. 
+
+An  Upstream  operational  Hydropower  Project  named  Teesta-III  (1200  MW)  is  
+
+also built upon Teesta River with its Power House Situated at Mangan, about 50 
+
+km from the Dams Site of Teesta -V. 
+
+The river Teesta is one of the main Himalayan River originating in the glaciers of 
+
+Northern  Sikkim  at  an  elevation  of  8500m.  Flowing  generally  in  the  southern 
+
+direction the river drains the entire state before entering West Bengal at Sevoke 
+
+near  Siliguri.  The  river  in  its  longest  course  on  Lachen  chu  originates  as 
+
+Chemuo chu travelling westward  which turns southward and is joined by  Zemu 
+
+chu on the right bank, Lachen chu further downstream is joined by Lachung chu 
+
+at Chungthang.  
+
+The slope of the Teesta River upto confluence of Lachen chu and Lachung chu 
+
+is  very  steep  gradient,  about  1  in  20.  After  confluence  of  Lachen  chu  and 
+
+Lachung chu the river gradually increases in width and takes a wide loop flowing 
+
+down to Singhik. The total catchment area upto the Teesta-V Dam site is 4307 
+
+sq. Km. 
+
+6.1  Climate and Rainfall Characteristics  
+
+The  project  catchment  has  its  own  climatic  peculiarities  caused  by  its 
+
+geographical  location,  relief  and  altitudinal  variation.  The  maximum  and 
+
+minimum temperature varies from 37° C in summer to 8° C in winter and 
+
+the relative humidity varies from 40% to 100%. 
+
+The  bulk  of  the  total  annual  rainfall  in  the  catchment  occurs  during  the 
+
+months of May to October. The average annual rainfall at Dikchu on basis 
+
+of available data is 2544 mm. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.2  Water Availability  
+
+The  CWC  approved  water  availability  series  at  Teesta-V  has  been 
+
+developed  on  the  basis  of  observed  discharges  at  Dikchu.  The  average 
+
+annual runoff as per the approved water availability series is 7554 MCM. 
+
+6.3  Design Flood 
+
+A Probable Maximum Flood of 9500 cumec was recommended as design 
+
+flood  and  later  on  Revised  to  14596  Cumec  by  CWC  (central  water 
+
+commission). 
+
+Some  technical  changes  like  raising  a  parapet  wall  on  top  of  dam,  and 
+
+reactivating the diversion tunnels and rechecking the structural safety and 
+
+stability analysis was proposed, however, further details in this regard are 
+
+not available as yet. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 14 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.  SEISMOLOGY 
+
+Teesta-V Power Station falls in Zone – IV of Earthquake Sensitivity Zone. 
+
+Bureau  of  Indian  Standards  [IS-1893  –  part  –  1:  2002],  based  on  various 
+
+scientific            inputs  from              a  number of agencies  including  earthquake  data 
+
+supplied by IMD, has grouped the country into four seismic zones viz., Zone-II, 
+
+III,  IV  and  V.  Of  these,  zone  V  is  rated  as  the  most  seismically  active  region, 
+
+while zone II is the least 
+
+SEISMICITY MAP: Seismicity of India (1505 to October, 2005) (M>5.0) 
+
+                         Courtesy : Website of India Meteorological Department, Govt of India 
+
+Magnitude  
+
+5 - 5.9   
+
+8 - 8.9 
+
+  6 - 6.9 7 
+  9 & above 
+
+  7.9 8 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Map of Earthquake Zones of India 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 16 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.  OPERATIONAL HISTORY 
+
+The  project  was  commissioned  in  2008  (first  unit  on  28.03.2008,  second  on 
+
+06.02.2008 and third in 20.03.2008). 
+
+The  operational  data  of  the  plant  from  Financial  Year  2016-17  onwards  was 
+
+studied and the summary of same is as under: 
+
+Performance at a Glance 
+
+Sl. 
+No. 
+
+Year 
+
+Yearly 
+Generation  
+
+(MU) 
+
+1  
+
+2016-17  
+
+2,773  
+
+2  
+
+2017-18  
+
+2,819  
+
+3  
+
+2018-19  
+
+2,701  
+
+4  
+
+2019-20  
+
+2,832  
+
+5  
+
+2020-21  
+
+2,830  
+
+The  generation  summary  for  year  2020-2021  was  also  procured,  the  details  of 
+
+which are as under: 
+
+Sl No.    Month   
+
+Generation (MU) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+April 2020 
+
+May  2020 
+
+June 2020 
+
+July 2020 
+
+August 2020 
+
+189.635 
+
+309.574 
+
+355.622 
+
+370.606 
+
+385.069 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sl No.    Month   
+
+Generation (MU) 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+September 2020 
+
+October 2020 
+
+November 2020 
+
+December 2020 
+
+January 2021  
+
+February 2021 
+
+March 2021 
+
+373.379 
+
+317.682 
+
+161.541 
+
+107.353 
+
+83.970 
+
+68.960 
+
+106.397 
+
+The study of plant maintenance was done and following was observed: 
+
+ 
+
+There has been no major breakdown of Plant & Machinery in last 3 years. 
+
+ 
+
+The  power  generation  has  not  been  hampered  (except  for  on  some 
+
+occasions due to very minor issues & that too for short period) due to any 
+
+mechanical problems. 
+
+As a routine measure, all the 03 machines are taken-up for annual maintenance 
+
+one-by-one during the lean Flow Season (November – February) each year. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.  CIVIL  &  HYDRO  MECHANICAL 
+
+–  GENERAL 
+
+OBSERVATIONS 
+
+Based upon our inspections and discussions held with site officials, it was noted 
+
+that regular inspections are held at the Power station for general conditions of all 
+
+components of project. 
+
+Major  inspections  are  held  bi-annually  i.e.  pre  and  post  monsoon.  In  addition, 
+
+state  bodies  and  Central  Water  Commission  (CWC)  also  seek  regular  reports 
+
+from NHPC regarding the respective power stations. 
+
+With regard to Teesta-V Power Station, the observations are as below: 
+
+9.1  Reservoir 
+
+  No signs in decline in water quality &recent sediment deposition.   
+
+  There  is  no  indicator  of  major  active  or  inactive  landslide  area  in  the 
+
+reservoir rim. 
+
+9.2  Dam & Dam Block/Reach (Concrete/Masonry)  
+
+9.2.1  Upstream Face   
+
+  There  is  no  evidence  of  surface  defects  (honeycombing, 
+
+staining, stratification). 
+
+  There is no concrete / masonry deterioration (spalling, leaching, 
+
+disintegration).  
+
+  There is no cracking (structural, thermal, along joints). 
+
+  There 
+
+is 
+
+no 
+
+evidence 
+
+of 
+
+differential 
+
+settlement 
+
+(displaced/offset/open joints). 
+
+  No damage to joints and/or water stops is observed. 
+
+9.2.2  Crest of Dam  
+
+  No  evidence  of  differential  settlement  (displaced/offset/open 
+
+joints). 
+
+  No cracking (structural, thermal, along joints).  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  No  degradation  to  access  road  &  upstream  parapet  or 
+
+downstream curb wall. 
+
+9.2.3  Downstream Face  
+
+  No  surface  defects  (honey-combing,  staining,  stratification)  & 
+
+concrete/masonry 
+
+deterioration 
+
+(spalling, 
+
+leaching, 
+
+disintegration).   
+
+  There is no cracking (structural, thermal, along joints)  
+
+  No  evidence  of  differential  settlement  (displaced/offset/open 
+
+joints). 
+
+  No damage to joints and /or water stops. 
+
+  No seepage/sweating at any location on downstream face.  
+
+9.2.4  Abutment Contacts 
+
+  Leaks, springs or wet spots in the vicinity of abutment is present 
+
+as  seepage  from  left  bank  at  RD  40m  downstream  at  EL. 
+
++565m near abutment.  
+
+  No cracking or settlement. 
+
+9.3  Gallery/Shaft & drainage (concrete/masonry)  
+
+There are no Slushy conditions or water logging immediately downstream 
+
+of dam.   
+
+9.3.1  Gallery/Shaft Condition 
+
+  No  problem 
+
+in  accessing  or 
+
+inspecting  gallery/  shaft 
+
+(obstruction). 
+
+  No Safety issues (inadequate handrails, lighting or ventilation).  
+
+  There  is  the  problem  of  inadequate  drainage  (slippery  stairs, 
+
+water  logging  of  gallery,  clogged  porous  of  foundation  drains). 
+
+Clogged  Porous  Drains  were  being  cleaned by  drilling  for  their 
+
+functionality.  
+
+  No differential settlement (displaced/offset/open joints).   
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 20 
+
+ 
+ 
+ 
+ 
+ 
+  There  is no  excessive  seepage/sweating  at  any  location  along 
+
+gallery/shaft) 
+
+  Minor  leakage  from  right  bank  drift  in  R-1  block  and  rock 
+
+interface  observed  at  EL.  529.22m  moderate  leakage  from  left 
+
+bank  drift  at  EL.529.22m  observed.  Quantum  of  water  is 
+
+monitored regularly by V-notch in Gallery-C.  
+
+Data at reservoir level 575 M are as follows:  
+
+  EL 499 (u/s)   
+
+  EL 499 (d/s)   
+
+  EL 529.22 (R/B) 
+
+  EL 529.22 (L/B) 
+
+:  
+
+:  
+
+:  
+
+:  
+
+1.80 lps 
+
+0.35 lps 
+
+1.90 lps 
+
+8.40 lps 
+
+  Seepage  is  measured  by  V-notch  at  4  locations  in  foundation 
+
+galleries. There is no significant leakage from the porous drains 
+
+and monolith joints.   
+
+  No  substantial  progressive  reduction  in  the  seepage  through 
+
+the foundations. 
+
+  Clogged  Porous  Drains  were  being  cleaned by  drilling  for  their 
+
+functionality.  
+
+  PH-7.27,  Chloride-14.87  mg/l,  Dissolved  solids-167  mg/l 
+
+Calcium  Hardness-19.4  mg/l.  As  per  test  conducted  in  April 
+
+2021.   
+
+  No Leachate deposition. 
+
+9.3.2  Drain Condition 
+
+  No calcium or other deposits in drain. 
+
+  Dewatering pumping station is fully operational.  
+
+  No deterioration of pump & associated equipment.  
+
+  The sump well is clean & maintained.   
+
+  The V notch before sump well is clean & maintained.  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 21 
+
+ 
+ 
+ 
+ 
+ 
+9.4  Body wall (masonry/concrete) of ‘NOF’ Dam and Spillway 
+
+  Minor  seepage  observed  from  porous  drains.  Porous  drains  were 
+
+being cleaned for their intended use.  
+
+  Minor  leaching  &  deposition  was  observed  at  few  locations  in 
+
+foundation gallery.   
+
+  The  samples  of  the  seepage  water  and  reservoir  water  being 
+
+regularly tested for reactive & corrosive properties.  
+
+  No  swelling  &  cracking  is  observed  on  the  downstream  face 
+
+especially  near  the  points  of  concentration  of  stress  like  the  toe  or 
+
+locations of abrupt change in geometry of the face of the opening.  
+
+  The pointing on upstream face of the dam is in good condition.  
+
+  Seepage  is  measured  by  V-notch  at  4  locations  in  foundation/dam 
+
+galleries. Porous drains were being cleaned for their intended use. 
+
+9.5  Structure  performance  of  the 
+
+‘NOF’  & 
+
+‘OF’  portions  of  Dam 
+
+Foundation.   
+
+  No Excessive deflection with respect to permissible deflection at the 
+
+time of design.   
+
+  No tendency of gradual sliding.  
+
+  No cracking & upheaval or settlement in any part of the body wall or 
+
+foundations.   
+
+  No Excessive uplift.  
+
+  No  Excessive  seepage  and  leaching  through  the  body  of  the  dam 
+
+and the foundation. 
+
+9.6  Spilling & Energy Dissipation Structure 
+
+9.6.1  Spillway 
+
+  Moderate  damages  were  seen  from  trunion  beam  elevation  in 
+
+some part of the glacis & pier reinforcement near radial gate sill 
+
+beam in bay S1 & S3. Bay No. S2 & S5 were repaired with steel 
+
+liner in 10m stretch d/s of radial gate sill beam. Steel liner works 
+
+in  bay  S1,  S3  &  S4  have  also  been  completed  during  this 
+
+season.  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 22 
+
+ 
+   
+ 
+  There are no displaced, offset or open joints.  
+
+  There  is no  cracking  (structural,  thermal,  along  joints)  and any 
+
+surface defects (honeycombing, staining, stratification).  
+
+  No damage to joints and or waterstops is observed.  
+
+  There  is  no  seepage/sweating  at  any  location  on  spillway 
+
+glacis. 
+
+9.6.2  Energy Dissipation Structures   
+
+  No  obstructions  in  or  immediately  downstream  of  dissipation 
+
+structure & same filled water in plunge pool.  
+
+9.7 
+
+Intake / Outlet & Water Conveyance Structure  
+
+9.7.1  Intake / Outlet Structure 
+
+  There 
+
+is 
+
+no 
+
+Evidence 
+
+of 
+
+structural 
+
+distress 
+
+(displaced/offset/open joints, cracking).   
+
+  There  is  some  evidence  of  surface  defects  (honeycombing, 
+
+staining, stratification). 
+
+9.8  Hydro-Mechanical Components & pump 
+
+9.8.1  Spillway  gates  (Radial  gates,  vertical  lift  gates,  Automatic 
+
+gates)  
+
+  Leakage was observed from damage seal of radial gate #1 & 2 
+
+in the rubber seals.  
+
+  All 
+
+the 
+
+following  structural  members  were 
+
+found 
+
+to  be 
+
+satisfactory: 
+
+  Gate leaf and stiffeners 
+  End arms 
+  Trunnion girders/ Yoke girder 
+  Stop logs 
+  Lifting beams 
+  Gantry cranes 
+  Tracks 
+  Trunnion bracket 
+  Chains/wire ropes 
+  Bridge structure  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 23 
+
+ 
+ 
+ 
+ 
+ 
+9.8.2  Hoists, Cranes and Operating Mechanisms 
+
+  The Hoists are working satisfactorily.  
+
+  Alternative power system for gate operation working properly as 
+
+dam electrical system charged/standby with 2 nos 500 KVA DG 
+
+set  &  2  no.  11  KV  transmission  line  are  available  at  dam  site. 
+
+However, 01 number DG set is found under repair. 
+
+9.8.3  Spillway, Bridge, Hoist Bridge, Trunnion Level Bridge Catwalk 
+
+  The  decking,  girders  and  structural  are  supports  of  Spillway 
+
+Bridge,  Hoist  Bridge,  trunnion  level  bridge  and  catwalks  are 
+
+structurally sound & RCC Bridge.  
+
+  Parapet or railing over the bridge is sound, safe and painted.   
+
+  The track rails for gantry cranes are structurally sound & intact. 
+
+9.8.4  Valves 
+
+  There is no problem in inspecting valve. 
+
+  There  are  no  obstructions  in  preventing  or  impairing  smooth 
+
+operation. 
+
+  There is no deterioration of valve & associated equipment. 
+
+9.8.5  Trash Racks and rack cleaning machines 
+
+  The trash rack is fixed and the cleaning mode is TRCM. 
+
+  No deterioration of equipment (wheel trolleys, gantry structures, 
+
+operating  mechanism,  connecting  bolts,  welds,  surface,  paint 
+
+work). 
+
+  There is wear or damage to wire cables & other moving parts. 
+
+9.9  Access Road 
+
+  There is properly constructed and well-maintained all-weather access 
+
+road  to  the  dam  site.  The  access  road  to  Dam  top  at  few  locations 
+
+are found to be sinking. Periodic maintenance is required to keep the 
+
+road accessible always.  
+
+  The pavement of access road is of cement concrete & PCC. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 24 
+
+ 
+  
+  
+ 
+ 
+9.10 
+
+Instrumentation 
+
+  There  are  no  problems in  ensuring  correct functioning  of  instrument 
+
+(lighting, ventilation). 
+
+  No  evidence  of  degradation  to  condition  of  instrument  (rusting, 
+
+vandalism). 
+
+  Most  of  the  instruments  are  working  satisfactorily  and  reading  are 
+
+taken regularly. 
+
+9.11  Communication facilities 
+
+Wireless Telephone/mobile/Fax/Internet is available at dam site. 
+
+List of Various Instruments Installed on Dam 
+
+Sl. No. 
+
+Name of Instrument 
+
+Nos. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+Multi Point Borehole Extensometer-1 
+
+Pore Pressure Gauge Vibration type 
+
+Stress-strain set I/c Pore Pressure Gauge 
+
+Uniaxial Joint Meter (Electronic Type) 
+
+Perimetric Joint Meter vibrating type 
+
+Temperature Meter (vibrating type) 
+
+Pendulum (Mechanical) 
+
+Uplift Measuring stand pipe hydraulic 
+
+V Notch (Mechanical) 
+
+Strong Motion Accelerograph (3 No.) (Electronic Type) 
+
+Survey Instruments 
+
+Survey Points (Mechanical) 
+
+AWS (Electronic type) 
+
+10 
+
+5 
+
+6 
+
+14 
+
+11 
+
+18 
+
+2 
+
+6 
+
+4 
+
+3 
+
+9 
+
+6 
+
+1 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 25 
+
+ 
+ 
+ 
+10.  CIVIL  &  HYDROMECHANICAL  RISK  REVIEW  & 
+
+PREVENTIVE MEASURES 
+
+Hazards in power stations can be due to: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Flood /cloud burst 
+
+Fire / explosion 
+
+Earthquake 
+
+Landslides / slide prone area 
+
+Terrorists threats / attacks & Sabotage 
+
+Bomb threat and bomb explosion 
+
+Disruption in power supply, 
+
+10.1.  Hazards 
+
+10.1.1  Flooding at Dam 
+
+Teesta River on which the dam is located is originating from Cho 
+
+Lamo Glacier in the Himalayas. This river is prone to floods in the 
+
+monsoon  season  commencing  from  1st  May  to  31st  October, 
+
+due to  various  reasons  viz.  heavy  rains,  occasional cloud burst, 
+
+landslides, etc. 
+
+10.1.2  Hazards – Landslides/ Snow falls 
+
+The  Teesta-V  Power  Station  lies  in  the  Himalayan  area,  as  the 
+
+area is prone to heavy rain falls/ snow falls, especially during the 
+
+monsoons  and  earthquake,  the  occurrence  of  landslides  at 
+
+different locations is a common phenomenon. 
+
+Damages due to landslides: 
+
+  Landslide in reservoir areas causing flood. 
+
+  Road blockade due to landslides. 
+
+The  various  roads  viz  the  Power  House  to  Dam  site  and  other 
+
+sites are prone to damages often leading to road blockades and 
+
+thereby cutting off essential supplies. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.1.3  Hazards – Earthquakes 
+
+It  is  well  known  that  damages  due  to  earthquake  at  a  location 
+
+depend  not  only  on  the  earthquake  size  and  distance  of  the 
+
+earthquake source, but also on the local site conditions. Hazard 
+
+maps  are  essential  for  the  comprehensive  understanding  of 
+
+spatial and temporal occurrences of natural calamities. When an 
+
+area  is  exposed  to  hazards,  a  map  helps  the  planning  team  to 
+
+analyze it for vulnerability/risk and will be useful in the decision-
+
+making process. The hazard maps play a vital role in planning of 
+
+new  development  projects  as  well  as  in  incorporation  of  hazard 
+
+reduction technique into existing developments. 
+
+Teesta-V  Power  Station  lies  in  seismic  zone-IV  and  is  prone  to 
+
+earthquake. 
+
+10.1.4  Hazards  –  Bomb/  Terrorist  Threat,  Terrorist  Attack,  Strike, 
+
+Violent  Agitation,  Sabotage,  Hindrance  in  power  supply, 
+
+Cyber Attack 
+
+Teesta-V  Power  Station  is  situated  in  the  district  East-Sikkim  of 
+
+the State of Sikkim. Looking forward to the security conditions of 
+
+the  National  interest,  there  is  a  constant  threat  to  the  electricity 
+
+producing installations by the anti-national elements, etc. Hence, 
+
+there  is  a  necessity  to  have  a  Crisis  and  Disaster  Management 
+
+Plan. The main aim to have this plan is to prepare the installation 
+
+to  counter the  possible  danger, so that  different  agencies  within 
+
+the power station function in full co-ordination. 
+
+Below  mentioned  emergency  conditions  are  possible  in  the 
+
+installation: 
+
+  Terrorist attack or attack on the security personnel. 
+
+  Bomb attack & bomb threat. 
+
+  Strike by the employees 
+
+  Violent agitation. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Destruction due to any reason and subsequent hindrance in 
+
+the power supply. 
+
+  Local law and order problem. 
+
+  Cyber attack. 
+
+10.2  Preventive Measures 
+
+10.2.1  Flooding at Dam 
+
+Teesta Dam has been designed for a probable maximum flood 
+
+of 9500 cumecs.  The five nos. of gates at dam are designed 
+
+for passing a continuous flow of 9500 cumec each. 
+
+As  and  when  the  river  discharge  crosses  the  limit  of  500 
+
+cumec  and  sustains  for  a  considerable  period  with  rising 
+
+trends,  the  river  shall  be  considered  under  flood.  It  has  also 
+
+been observed that during the peak summer period i.e. in May 
+
+&  June  due  to  snow  melt  coupled  with  weather disturbances, 
+
+the  river  discharge  increases  suddenly,  often  leading  to  flood 
+
+like situation. 
+
+10.2.2  Prevention  and  Mitigation  of  Hazards  –  Landslides/ 
+
+Snowfalls  
+
+The landslide prone areas are being surveyed before the onset 
+
+of  monsoon  and  necessary  preventive  measures  are 
+
+undertaken. 
+
+Preventing  Measures:  Retaining  &  Breast  Walls,  Cross 
+
+Drainage, Nallah Training Works and Cause Ways have been 
+
+provided to take care. 
+
+Dam (Civil) division shall be responsible for restoration of road 
+
+blockade  due  to  landslides.  Resources  like  Portable  Air 
+
+Compressor, Dumpers, Wheel Dozer, Wheel Loader all should 
+
+be  parked  at  Central  workshop  which  can  be  used  for 
+
+restoration of road communication. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.2.3  Seismic Design Parameters for Power Station 
+
+The  seismic  design  parameters  for  Teesta-V  power  station 
+
+have  been  adopted  after  detailed  study  of  information  on  the 
+
+tectonic  models  of 
+
+the  Himalayas  and  past  history  of 
+
+earthquakes in the power station area. 
+
+Based  on  the  data  of  earthquake  occurrence  and  geological 
+
+and  tectonic  set  up  of  the  area,  the  seismic  risk  at  power 
+
+station  area  in  terms  of  peak  ground  acceleration  from  has 
+
+been  evaluated  and  the  following  values  have  been  adopted 
+
+for the design of the power station: 
+
+  Horizontal Peak ground acceleration of 0.16 g. 
+
+  Vertical Peak ground acceleration of 0.32 g. 
+
+10.3  Hydro-Mechanical 
+
+  Provision of independent gate with dedicated gantry for each opening 
+
+of penstock (s)/pressure shaft (s) in surge shaft may be considered. 
+
+  Provision  of  independent  gate  with  dedicated  gantry  for  each  Draft 
+
+Tube shall be considered.  
+
+  Outfall structure of TRT shall be planned with suitable gate to prevent 
+
+reverse entry of flood water from the river. 
+
+  Stop logs shall be parked near location of the gates, if possible, so as 
+
+to avoid the time delay in transportation of same during emergency. 
+
+  Provision  of  standby  DG  supply  of  sufficient  capacity  shall  also  be 
+
+made for operation of various gates. 
+
+  Regular preventive checks/maintenance of HRT, surge shaft draft tube. 
+
+TRT,  bulk  head  gates  &  associated  seals  and  their  water  away  from 
+
+Power station.  
+
+10.4  Emergency Preparedness 
+
+  Emergency  Action  Plan  (EAP)  prepared  for  the  dam  as  per  the 
+
+national guidelines& same is found satisfactory.   
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  Emergency Action plan was issued in February 2019.  
+
+  Inundation maps are updated and available to concerned authorities.  
+
+  Concerned  authorities  are  informed  about  the  system  of  emergency 
+
+reporting procedure and warning. 
+
+  Villagers on the right bank are allowed to use Dam top road.  
+
+  The  stakeholder  consultation  meeting  along  with  mock  drill  exercise 
+
+conducted annually.  
+
+  EAP disseminated to all the concerned stakeholders. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.  PERIODIC MAINTENACE - TURBINE 
+
+Periodic  maintenance  (Daily  Checks,  Weekly  Checks,  Monthly  Checks  and 
+
+Annual  Checks)  of  Turbine  is  carried  out  in  the  project  as  per  associated 
+
+vendor’s guidelines, which are as under: 
+
+The units are subject to Daily, Weekly & Monthly check as under:  
+
+Items 
+
+Daily Checks 
+
+Weekly Checks 
+
+Monthly  Checks 
+
+Annual Checks 
+
+Penstock 
+
+--- 
+
+--- 
+
+Spiral Casing 
+
+Check  Water  pressure  below 
+
+--- 
+
+--- 
+
+--- 
+
+head  cover  before  and  after 
+
+upper  stationary 
+
+labyrinth  / 
+
+wearing ring. 
+
+Check  spiral  case  man  hole  for 
+
+water leakages, if any 
+
+Check 
+
+leakage 
+
+from 
+
+spiral 
+
+casing drain valve. 
+
+Calibrate penstock pressure gauge. 
+
+Check/lubricate spiral casing drain valve. 
+
+Check  and  ensure  the  spiral  casing  inlet 
+
+pipe Flange connecting the spiral casing to 
+
+the MIV s correctly assembled & secure. 
+
+Calibrate spiral casing pressure gauge. 
+
+Visual  inspection  of  spiral  casing,  stay 
+
+ring, 
+
+stay  vanes,  bottom 
+
+ring 
+
+for 
+
+corrosion,  cavitation  damage  etc.  Take 
+
+remedial measure if required. 
+
+Draft Tube 
+
+Check  any  abnormal  vibration 
+
+Check  draft 
+
+tube 
+
+Check 
+
+leakage  at  the 
+
+Check  for  cavitation,  erosion,  cracks  in 
+
+&  noise  coming  from  draft 
+
+pressures. 
+
+flanges  of  the  discharge 
+
+weld  joint  &  any  other  damages  in  draft 
+
+tube. 
+
+ring  /  bottom  ring  / 
+
+tube cone, elbow and discharge ring. 
+
+pivot ring and draft tube 
+
+cone. 
+
+Check and grease draft tube drain valve. 
+
+Visually check draft tube lower 
+
+cone/ 
+
+upper 
+
+cone 
+
+joint 
+
+assembly  for  all  mechanical  & 
+
+structural 
+
+equipment 
+
+and 
+
+mounting  for  slackness,  cracks 
+
+or leakage. 
+
+Check leakages from draft tube 
+
+man-hole door. 
+
+Pressure 
+
+Check  any 
+
+leakages 
+
+in  the 
+
+--- 
+
+Balance Pipe 
+
+balancing pipes. 
+
+Top Cover 
+
+--- 
+
+--- 
+
+--- 
+
+--- 
+
+Visual inspect the balancing pipe work. 
+
+Check  top  cover  for  erosion,  corrosion 
+
+and cracks in weld joints. 
+
+Turbine Pit 
+
+Check 
+
+for  unusual 
+
+/water 
+
+--- 
+
+Clean  up  any  oil  in  the 
+
+leakages. 
+
+turbine pit. 
+
+Check drainage hole and 
+
+accumulation of water. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Items 
+
+Daily Checks 
+
+Weekly Checks 
+
+Monthly  Checks 
+
+Annual Checks 
+
+Bottom  Ring  / 
+
+Check  for  unusual 
+
+leakages 
+
+--- 
+
+Lower  Ring  / 
+
+under the bottom cover. 
+
+Pivot  Ring  / 
+
+Discharge Ring 
+
+Runner 
+
+Assembly 
+
+--- 
+
+--- 
+
+--- 
+
+--- 
+
+Check for erosion, corrosion and cracks in 
+
+welds in bottom cover and liner. 
+
+Measure runner clearances & keep record 
+
+of the clearances. 
+
+Check  runner  blades,  cone  and  hub  for 
+
+cavitation erosion,  cracks  in  weld portion 
+
+and any other damage. 
+
+Turbine Shaft 
+
+Check  vibration  trend  for  the 
+
+--- 
+
+Check  vibration 
+
+trend 
+
+Check  coupling  cover  bolts 
+
+for 
+
+its 
+
+day. 
+
+for the month. 
+
+tightness. 
+
+Check  wobbling  of  shaft  by  measuring 
+
+shaft throw. 
+
+Check  fatigue  cracks  in  shaft  and  paint 
+
+finish. 
+
+Check unit axis alignment. 
+
+Check rusting of shaft. 
+
+Check  journal  for  scouring  pit-marks  and 
+
+dis-colouring. 
+
+Turbine  Guide 
+
+Check  vibration  trend  of  the 
+
+--- 
+
+Check 
+
+temperature 
+
+Check for oil leakage from TGB housing. 
+
+Bearing 
+
+bearing housing for the day. 
+
+trend for the month. 
+
+Check  vibration 
+
+trend 
+
+for the month. 
+
+Check turbine guide bearing oil 
+
+level & replenish, if required. 
+
+Check 
+
+& 
+
+analyze 
+
+any 
+
+temperature  change  of  TGB 
+
+pads/shell  &  oil  for  last  24 
+
+hours  that  is  not  attributable 
+
+to  normal  operation  under 
+
+load conditions. 
+
+Check for oil leakage from TGB 
+
+housing. 
+
+Check  cooling  water  flow  and 
+
+pressure to oil. 
+
+Filtration,  centrifuging  and  testing  of  the 
+
+bearing  oil 
+
+for  Viscosity, 
+
+foaming 
+
+tendency, 
+
+contamination,  moisture 
+
+content etc. 
+
+Inspect and clean bearing housing. Top up 
+
+with  clean  oil  and  check  for  oil  leakages 
+
+from. 
+
+Clean  &  check  the  babbit  metal  of  guide 
+
+bearing  pads  /  shell  for  scouring,  lard 
+
+spots or cracks. 
+
+Measure 
+
+the  pre  dismantling  guide 
+
+bearing clearance. 
+
+Adjust the clearances and remove play, if 
+
+any 
+
+in  pads.  Measure 
+
+final  bearing 
+
+clearances. 
+
+Check  Bearing  housing  bolts  for  any 
+
+looseness and cracks in bearing housing. 
+
+Calibration of RTDs & TSDs. 
+
+Testing  of  all  alarm  &  trip  circuits  by 
+
+simulating the conditions. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Items 
+
+Daily Checks 
+
+Weekly Checks 
+
+Monthly  Checks 
+
+Annual Checks 
+
+Turbine  Shaft 
+
+Check 
+
+for  excessive  water 
+
+--- 
+
+Record  &  keep  log  of 
+
+Test all alarm circuits by simulating alarm 
+
+Seal 
+
+leakage from shaft seal, if any. 
+
+shaft  seal  wear  readings 
+
+condition. 
+
+Check  shaft  seal  cooling  water 
+
+pressure. 
+
+where  wear 
+
+indicators 
+
+are given. 
+
+Check looseness of bolts and nuts of shaft 
+
+sleeve. 
+
+Check condition of shaft sleeve for wear & 
+
+if required replace it. 
+
+Check shaft seal cooling water system. 
+
+Based  on  above  schedule,  the  periodic  maintenance  are  carried  out  and  data 
+
+captured. The  plant  undergoes  major  Annual checkup maintenance  schedule  in 
+
+lean flow season which normally falls between November & February months. 
+
+Each unit is taken-up for maintenance one by one. 
+
+The data for maintenance schedules during the previous years were studied and 
+
+it was noted that the plant had undergone all listed periodic check-up. 
+
+During  last  maintenance  check-up  between  November  2020  &  February  2021, 
+
+the following major activities were carried out: 
+
+Component Name 
+
+  Activity 
+
+Upper Draft Tube Linear  
+
+:  No damage noted. Cleaned & Repainted. 
+
+Discharge Rings 
+
+: 
+
+Wherever the Wearing Ring / Labyrinth was eroded, same 
+have  been  replaced.  Some  Mild  Steel  Portion  welded  & 
+grinded.   
+
+Runner Cone 
+
+:  Some Minor repairs & Cleaning  
+
+Runner 
+
+Guide Vanes 
+
+: 
+
+: 
+
+Out of 3 Units, Runner of two Units were replaced. Besides 
+wherever the other minor damages were observed, same 
+were rectified by welding & grinding.  
+
+Wherever the Plates, Rings and Bushes were damaged for 
+Bottom  Ring,  Head  Cover  facing  Plates  and  Head  Cover 
+Wearing Ring were replaced with New Ones. The repairs in 
+terms of Welding & Grinding wherever required have been 
+carried out. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Component Name 
+
+  Activity 
+
+Guide  vanes  of  the  units  have  been  replaced  which  had 
+major erosions while the Guide Vanes with minor erosions 
+were repaired.  
+
+The  Sleeves,  Packing’s  were  found  affected  &  have  been 
+replaced. The shaft sleeves were found sound.  
+
+The pads were found to be in good conditions. These were 
+cleaned & polished. 
+
+The  test  values,  impendence  test  all  were  found  to  be  in 
+permissible  limits.  All  terminals,  Winding,  Bolts,  Coolers 
+etc. were checked cleaned & found OK. 
+
+The  excitation  system  was  found  to  be  sound.  This  was 
+cleaned. 
+
+The Governor was inspected & its condition was found to 
+be in order. Filter of Oil & Clearing was done. 
+
+One  no  GSU  transformer  of  one  phase  was  faulty  and 
+transformer.  All  other 
+hence 
+transformers were tested and found in SOUND condition. 
+
+replaced  with  spare 
+
+GIS  hardware  &  associated  foundation  works  were 
+checked  &  cleaned.  All  tests  were  carried  out  & 
+rectifications wherever required was done. 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+Shaft Sleeve & Seal 
+
+Pads : TGB, UGB, LGB & TB 
+
+Stator & Rotor 
+
+Excitation System 
+
+Governor  
+
+Generator Transformer 
+
+GIS + XLPE Cables 
+
+It  was  noted  that  due  to  high  silt  levels  in  water,  there  is  regular  erosion  of 
+
+components.  These  components  including  runners,  guide  vanes  etc.  are 
+
+regularly inspected and replaced. 
+
+Overall maintenance standards of the machinery and plant as a whole was good. 
+
+The  critical  spares  are  in  place.  Although  the  suppliers  of  major  equipment  are 
+
+Toshiba Japan, but it is ensured that supply of components in case of emergency 
+
+is not hampered. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 34 
+
+ 
+ 
+ 
+ 
+ 
+Breakdown History 
+
+There has been no major damage noted in the plant that could have caused loss 
+
+of  generation  or  major  breakdown.  The  insurers  have  been  notified  of  some 
+
+damages  between  2016-2018  but  all  of  them  have  been  minor  and  well  below 
+
+deductible. The damages due to landslides / flash floods primarily have been to 
+
+road works & have not hampered the generation. 
+
+The  generation  data  &  operation  data  of  the  plant  revealed  that  generation  as 
+
+well  as  plant  availability  factor  in  last  5  years  have  always  exceeded  the 
+
+respective annual targets.  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.  RISK  REVIEW  -  ELECTROMECHANICAL  RISK  REVIEW  & 
+
+PREVENTIVE MEASURES  
+
+Hazards in power stations may happen due to occurrence of the following events: 
+
+ 
+
+ 
+
+ 
+
+Fire / Explosion 
+
+Flood / Cloud Burst 
+
+Leakage in power house and other underground structures, etc. 
+
+Due to these events, following hazards/ risks may occur: 
+
+12.1  Hazards 
+
+12.1.1   Hazards – Fire/ explosion & Accidents 
+
+The power house is more prone to high hazards due to fire owing 
+
+to storage of large volume of oils, lubricants etc., suffocation and 
+
+limited outlets (for smoke & human being). The cause of fire may 
+
+be  due  to  failure  of  protection  system  of  generator  or  failure  of 
+
+insulation. 
+
+The  transformers are also  prone  to  hazard  like fire &  explosion. 
+
+The  cause  of  fire  may  be  due  to  failure  of  transformer  winding, 
+
+high oil temperature or failure of protection system of transformer. 
+
+Other  likely  prone  areas  are  switchgear  rooms,  cable  galleries, 
+
+GIS, switchyard, etc. 
+
+12.1.2   Hazards – Floods 
+
+  Average  inflow  of  last  24  hrs  is  calculated  based  on  Power 
+
+House Generation and change in reservoir level plus spillage. 
+
+  In  addition, 
+
+information 
+
+regarding  Teesta  Ravi  River 
+
+discharge is also being monitored regularly from G&D site at 
+
+Lachen, Lachung, Chungthang, Sanklang, Dikchu (Dam axis 
+
+I and 14th mile) Sirwani. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Information regarding any sudden change in discharge in u/s 
+
+tributaries is also collected from Teesta-IV and Teesta-III H.E. 
+
+Project. 
+
+12.1.3   Flooding in Power House 
+
+Following are the possible situations that can lead to flooding of 
+
+Power House: 
+
+  Invert of main access tunnel / road of Power House portal is 
+
+EL 380 m. It is feared that flood water may enter the Power 
+
+House through Access Tunnel / road from river or any other 
+
+source. 
+
+  The turbines of the Power House are designed for 5000 PPM 
+
+of silt content in water. Beyond this limit, excessive silt in the 
+
+water  may  damage  shaft  seal  resulting  in  back  flooding  of 
+
+the turbine pit. 
+
+  Heavy  leakages  from  any  point  connected  with  water 
+
+conductor system. 
+
+  Failure  of  pumps/  Power  Supply  to  the  pumps  for  longer 
+
+duration. 
+
+12.2  Preventive Measures 
+
+12.2.1   Prevention And Mitigation Of Hazards – Fire & Accidents  
+
+For  prevention  and  mitigation  of  fire  hazards,  Safety  wing  is  in 
+
+place. This wing is responsible for operation of fire control room 
+
+24x7,  handling  of  any  fire  situation.  Other  duties  of  the  Safety 
+
+wing will be as under: 
+
+  To ensure the refilling of different types of fire extinguishers 
+
+as  and  when  required  by  any  departments  with  the  help  of 
+
+Central Store. 
+
+  To check the fire buckets filled with the sand. 
+
+  Availability of fire gadgets and apparatus. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  Fitness and operational check of fire tenders with the help of 
+
+central workshop. 
+
+12.2.2   Safety Measures available at the Power Station 
+
+The  following  are  some  of  the  essential  safety  measures  to  be 
+
+implemented in the power stations: 
+
+  Provision  for  smoke  and  heat  sensors  and  other  modern 
+
+electronic aids in the sensitive and fire prone areas. 
+
+ 
+
+Installation  of  integrated  CCTV  system  to  monitor  and 
+
+untoward happening in the cable gallery and other fire prone 
+
+areas. 
+
+  Regular checking of fire headers and fire alarms. 
+
+  Provision of portable fire extinguishers at fire prone places. 
+
+ 
+
+Identification and display of escape routes. 
+
+  Periodic  review  of  the  fire  fighting  arrangements  by  an 
+
+independent  and  qualified  fire  fighting  authority  to  plug 
+
+loopholes if any. 
+
+12.2.3   Preventive measures for Power House in case of Fire  
+
+Fire  prone  areas  in  the  powerhouse  are  identified  and  the 
+
+following  preventive  measures  are  being  taken  to  avoid  major 
+
+fire accidents: 
+
+  Regular  checking  of  smoke  &  fire  detectors  and  Emulsifier 
+
+system. Automatic oxygen level measuring devices are to be 
+
+installed at the various locations in the underground area. 
+
+  Maintaining of adequate spares, inventory of items which are 
+
+most 
+
+likely 
+
+to  be  destroyed 
+
+in  case  of  minor 
+
+fire, 
+
+identifications  of  spares  which  cannot  be  procured  in  short 
+
+duration,  identifications  of  spares  which  can  be  procured 
+
+from  local  markets.  Availability  of  spare  cable  specially 
+
+jointing kits has to be ensured. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Identification  of  escape  routes  and  assembly  areas  at 
+
+different  critical  places  like  transformer  gallery,  knee  liner 
+
+floor,  cable  tunnel  and  machine  floor  area,  have  been 
+
+displayed  at  different  locations  of  the  Power  House  and 
+
+Switchyard etc. The escape routes displayed are essentially 
+
+done  using  glow  sign  boards  which  are  visible  in  darkness 
+
+(in case of power failure). 
+
+  Minimum  oil  quantity  is  stored  inside  Power  House.  From 
+
+time to time, cleaning of the storage area of oil in the power 
+
+house  is  being  ensured.  Only  bare  minimum  inflammable 
+
+gases  are  being  kept  in  the  power  house  at  designated 
+
+locations.  First  Aid  Box  is  kept  in  stock  in  a  proper/  open 
+
+place for use in emergency. 
+
+ 
+
+In  case  of  Fire,  lift  is  not  to  be  used.  Further  all  Air 
+
+Conditioners & Ventilation System should be switched off in 
+
+case of Fire. 
+
+12.2.4   Preventive  action  plan  for  fire  at  different  locations  in  fire 
+
+prone areas of Power House. 
+
+12.2.4.1  Generator 
+
+Periodic testing of generator, its protection relays and 
+
+Sprinkler Fire System are being done.  
+
+12.2.4.2  Transformer 
+
+Periodic  testing  of  transformers  and  its  protection 
+
+system are done. 
+
+12.2.5   Action Plan in case of fire in Main Electrical Equipment: 
+
+  Emergency shut down all generating units.  
+
+  Trip,  all  running  generator  breakers,  all  line  breakers  and 
+
+field breakers.  
+
+  Stop the machine mechanically by applying brakes.  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  Emulsifier  system  as  provided  for  fire  extinguishing  of 
+
+transformers&  Generator  must  be  operated  manually  if  not 
+
+operated automatically.  
+
+Follow Evacuation guidelines : 
+
+  In  case  of  emergency,  the  main  controller  shall  declare 
+
+emergency.  The  evacuation,  head  count  and  other 
+
+necessary  arrangements  will  be  performed  under  the 
+
+guidance  of  Security  in-charge.  Alarm  (sirens)  will  be 
+
+raised  by  the  switch  board  operator  (security)  on  the 
+
+main gate after receiving instructions from main / incident 
+
+controller.  Besides,  to  alert  other  people  during  the 
+
+emergency,  people  have  been  instructed  to  run  to 
+
+various  departments  shouting  voices  relating  to  the  type 
+
+of emergency situation.  
+
+12.2.6   Prevention and Mitigation of Hazards – Flood  
+
+12.2.6.1  Flooding in Power House  
+
+Preventive Measures for Flooding in Power House: 
+
+  Silt content in water at intake at Dam during floods 
+
+is  to  be  checked  regularly.  In  case  of  continuous 
+
+flood, if silt content exceed permissible limit (5000 
+
+PPM), the machines are to be stopped.  
+
+  It 
+
+is  necessary 
+
+that  all  spillway  gates  and 
+
+mechanical equipments for operating the gates be 
+
+thoroughly  inspected  before  the  start  of  monsoon 
+
+every year.  
+
+  Inflow data should be strictly monitored.  
+
+Dedicated  dewatering  pumps  of  adequate  capacity  are  installed 
+
+in the power station.  
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Following  dewatering  pumps  are  available  in  pump  house  to  tackle 
+
+any flood situation. 
+
+Sl. 
+No. 
+
+Description  of  Dewatering  Pumps  and 
+Capacity 
+
+Qty. 
+
+Location 
+
+Use 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Grundfos SUBMERSIBLE PUMP 115 KW 
+
+Grundfos SUBMERSIBLE PUMP 30 KW 
+
+Grundfos SUBMERSIBLE PUMP 22 KW 
+
+3 
+
+1 
+
+3 
+
+Power House 
+
+Dedicated 
+
+Power House 
+
+Dedicated 
+
+Power House 
+
+Dedicated 
+
+Darling  Dredging  SUBMERSIBLE  PUMP 
+30 HP 
+
+1 
+
+Power House 
+
+Dedicated 
+
+Aqua SUBMERSIBLE PUMP 150 HP 
+
+2 
+
+Power House 
+
+Dedicated 
+
+12.3  Electro-Mechanical 
+
+  Hourly  monitoring  of  inflows  and  silt  levels  (PPM)  are  carried  out 
+
+during complete monsoon/high inflows period especially in case of silt 
+
+prone  projects/Power  stations.  Websites  of  weather  predication 
+
+agencies are regularly assessed for additional requisite data. 
+
+  Fixed  type  public  address  system  and  Siren  (along  with  audio-visual 
+
+devices  at  suitable  locations,  if  required)  for  covering  the  complete 
+
+project/Power station area are provided.  
+
+  System  is  built  up  for  proper  liaising  with  local  bodies  for  sharing 
+
+information  regarding  inflows,  any  blockade  in  upstream  of  dam  and 
+
+sudden  release  of  water  etc.  Directory  of  contact  numbers  of  key 
+
+persons  of  civil  administration,  police/ambulance,  fire  station,  etc. 
+
+available with the project.  
+
+  Periodical Training  programme for the operating  personnel on  “Flood 
+
+prevention of Power station” conducted to enhance their alertness and 
+
+effectiveness during such exigencies. 
+
+  Requisite number of Earth Moving Equipment e.g. Loader/Excavation 
+
+and  Dumpers  etc.  made  available  depending  upon  the  flood  related 
+
+threat perception. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 41 
+
+ 
+ 
+ 
+ 
+12.4  GENERAL 
+
+  Hourly  monitoring  of  inflows  and  silt  levels  (PPM)  are  carried  out 
+
+during complete monsoon/high inflows period especially in case of silt 
+
+prone  projects/Power  stations.  Websites  of  weather  predication 
+
+agencies are regularly assessed for additional requisite data. 
+
+  Fixed  type  public  address  system  and  Siren  (along  with  audio-visual 
+
+devices  at  suitable  locations,  if  required)  for  covering  the  complete 
+
+project/Power station area are provided.  
+
+  System  is  built  up  for  proper  liaising  with  local  bodies  for  sharing 
+
+information  regarding  inflows,  any  blockade  in  upstream  of  dam  and 
+
+sudden  release  of  water  etc.  Directory  of  contact  numbers  of  key 
+
+persons  of  civil  administration,  police/ambulance,  fire  station,  etc. 
+
+available with the project.  
+
+  Periodical Training  programme for the operating  personnel on  “Flood 
+
+prevention of Power station” conducted to enhance their alertness and 
+
+effectiveness during such exigencies. 
+
+  Requisite number of Earth Moving Equipment e.g. Loader/Excavation 
+
+and  Dumpers  etc.  made  available  depending  upon  the  flood  related 
+
+threat perception. 
+
+12.5  RESTORATION OF HYDRO POWER PLANT AFTER FLOODING 
+
+In  the  unfortunate  event  of  any  unforeseen  failure,  implementation  of  the 
+
+following  system  is  in  place  for  faster  restoration  of  the  project  /  Power 
+
+station: 
+
+  The  first  priority  is  to  evacuate  the  trapped  persons  from  the 
+
+project/power  station.  Instruments,  Electronic  cards  of  important 
+
+panels  and  other devices  &  equipment  which  can  be  easily  removed 
+
+may be taken out simultaneously, if possible. 
+
+ 
+
+Immediate  action  will  be  taken  to  dewater  the  Power  station. 
+
+Simultaneously,  the  source  of  flooding  shall  be  identified,  e.g.,  major 
+
+leakages from civil structures, leakages through intake, TRT gate, etc. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 42 
+
+ 
+ 
+ 
+ 
+The  source  of  flooding  shall  be  blocked  by  lowering  of  intake,  draft 
+
+tube/TRT gates etc. to stop the ingress of water to the Power station 
+
+despite  identification  of  the  source,  the  services  of  divers  shall  be 
+
+arranged  on  top  priority  of  rectification  of  the  trouble  spot  like  faulty 
+
+gate seals, cracks in concrete etc. 
+
+  A  control room, for the  restoration/refurbishment  of  plant  shall  be  set 
+
+up  where  all  the  information  regarding  management  of  flooding  shall 
+
+be available. 
+
+  The  damage  room,  rectification  and  testing  of  various  components 
+
+shall be done immediately after dewatering and cleaning of the Power 
+
+station with the help of experts/supervisors/ O&M’s representatives etc. 
+
+  All  the  human  resources  and  facilities  shall  be  planned  for  round  the 
+
+clock  working  till  the  completion  of  all  the  work(s).  All  event  and 
+
+arrangements  shall  be  recorded  in  sequential  order  basis  for  future 
+
+reference. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.  SAFETY / SECURITY AND FIRE PROTECTION SYSTEM 
+
+13.1  Safety / Security 
+
+Risk is protected by boundary wall and watched by CISF personnel round 
+
+the clock by approx. 200 in nos. Strictly entry pass is in operation. 
+
+13.2  Fire Protection System 
+
+Various  types of  Fire extinguishers are  installed  in  all  the  location as  per 
+
+norm.  
+
+As  the  main  hazardous  of  Fire  is  in  the  power  house,  cable  gallery, 
+
+transformer  and  switch  yard  area,  following  elaborate  fire  extinguishing 
+
+appliances  has  been  provided.  Mock  drill  is  also  carried  out  at  regular 
+
+intervals 
+
+13.3  Fire Fighting System – Power House 
+
+Level / Sl. No.  Description of  Protection System 
+
+Level I 
+
+Fire Detection & Alarm System  
+
+There are two types of fire alarm and detection systems installed at power 
+
+house. Out of which one is smoke detection and alarm system and other is 
+
+deluge  controlled  system.  However  both  systems  are  also  interconnected 
+
+with  each  other  but  works  only  consociate  alarms  from  other  area.  
+
+However, In smoke detection and alarm system the power house area have 
+
+been  dividing  into  56  zones  (32  Power  house,  24  Switchyard)  and  having 
+
+three  alarm  detection  and  annunciation  panels  installed  at  Power  house 
+
+control room, switchyard and Power house portal gate respectively.   
+
+Level I 
+
+Fire Protection – Water System 
+
+There is an overhead tank of a capacity of 15 m3 outside the power house 
+
+cavern at an elevation of 649.0 meters. Two vertical turbine type pumps of 
+
+40  HP  are  installed  which  draw  water  from  tail  race  tunnel  and  fill  this 
+
+overhead  tank.  As  a  back-up  penstock  in  unit  #  1  has  been  tapped  with  a 
+
+pressure reducing valve for filling the tank. 
+
+A charged  system capable of delivering required water flow to handle the 
+
+single largest fire hazard. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Level / Sl. No.  Description of  Protection System 
+
+1 
+
+Fire Fighting System - Power House 
+
+2 No. vertical turbine water pumps of capacity 1200 LPM, 40 HP and rated 
+
+head 110 M each complete with basket strainers are installed on Inlet Valve 
+
+floor of unit #1 and unit #3 These pumps fill the overhead fire tank provided 
+
+outside  the  power  house  through  a  single  pipe  line  through  transformer 
+
+gallery. 
+
+There  are  two  fire  water  headers  of  red  colour  in  the  power  house.  The 
+
+working  pressure  of  H.P.  fire  header  is  10  Kg/cm2  and  that  of  L.P.  fire 
+
+header is 5 Kg/cm2. As a back-up, the penstock of unit # 1 has been tapped 
+
+with a pressure reducing valve to reduce pressure from 18-20 Kg/cm2 to 10 
+
+Kg/cm2 for filling the overhead tank. Normally this tapping valve is in closed 
+
+position. 
+
+Pressure gauges are provided to indicate the fire water header pressure at 
+
+EL.  547.5M.  Another  control  panel  is  provided  at  the  same  floor  that 
+
+indicates  whether  overhead  tank  is  full  or  empty,  operation  of  pumps,  AC 
+
+supply failure, and pump strainer blocked etc. 
+
+The  operation  of  fire  deluge  system  is  set  at  a  pressure  of  5  Kg/cm2 
+
+pressure.  One  pressure  reducing  station  with  pressure  reducing  valve, 
+
+strainer,  gauges  and  relief  valve  has  been  provided  on  inlet  valve  floor  of 
+
+unit # 2 at EL. 543.SM. 
+
+2 
+
+Fire Fighting System -Transformer Gallery 
+
+The  high  pressure  water  header  piping  with  a  pressure  of  10  Kg/cm2  from 
+
+power house becomes the low pressure header with 5 Kg/cm2 as it goes to 
+
+the transformer gallery, because of higher elevation level  (from 547.5 M  to 
+
+590.0 M). 
+
+The  control  panel  of  fire  deluge  operating  system  has  been  provided  in 
+
+transformer  gallery  for  automatic  operation  and  stopping  the  deluge 
+
+operation by push button. It also provides the switches to make supply ON & 
+
+OFF. 
+
+The deluge system in transformer gallery for fire hazards is provided on the 
+
+same header with pressure of 5 Kg/cm2 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 45 
+
+ 
+ 
+ 
+ 
+ 
+Level / Sl. No.  Description of  Protection System 
+
+3 
+
+Fire Fighting System – Switchyard and Cable Tunnel 
+
+One  tapping  is  taken  from  the  fire  water  header  in  transformer  gallery, 
+
+which  takes  the  water  to  the  switchyard  area  via.  cable  tunnel.  The  whole 
+
+area is divided in various zones and deluge system has been provided at each 
+
+zone to take care of any fire hazard. 
+
+Level III 
+
+FIRE FIGHTING EQUIPMENT  
+
+1 
+
+Fire Hydrants 
+
+Fire  Hydrant  Points  are  provided  at  various  locations  of  Power  House  & 
+
+Switchyard. Hose reels & Nozzles are available in each boxes.  
+
+2 
+
+Fire Extinguishers 
+
+CO2 type Fire Extinguishers & ABC Type of Fire Extinguishers are placed at all 
+
+vulnerable place inside Power House. 
+
+3 
+
+Fire buckets is also placed at some places to extinguish the oil fire. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.  EQUIPMENT IMPORTANCE 
+
+The importance of the equipment is based on its utility for the running of the unit 
+and  the  production  of  power.  The  relative  importance  of  the  equipment  also 
+
+varies with the season in case of a Hydro Power Project. 
+
+The discharge of water in Monsoon Season would be at its Peak; enabling to run 
+all  the  units  at  full  load.  Whereas  in  the  winter  season  when  the  discharge  of 
+
+water is low; the running of all 3 units becomes difficult. 
+
+Thus the importance of all the equipment to be operational in the months of high 
+
+discharge is key to the complete power generation. 
+
+The  relative  importance  of  some  of  these  equipment  is  depicted  as  under.  We 
+would like to mention that the relative importance; we have considered is for the 
+
+period of high discharge when all units are operational: 
+
+Equipment 
+Name 
+
+Relative Importance 
+
+On 
+Individual 
+Unit 
+
+On Project 
+as a whole 
+
+Reserve 
+Capacity 
+
+Indigenous 
+Importance 
+
+Details of Loss 
+Minimization 
+
+Technical Remarks 
+
+Stator 
+
+100% 
+
+33% 
+
+Partial  
+
+(in CKD 
+Condition) 
+
+Imported 
+
+Flooding 
+
+CO2 
+System 
+Installed 
+
+Rotor 
+
+100% 
+
+33% 
+
+Partial  
+
+(in CKD 
+Condition) 
+
+Imported 
+
+CO2 Flooding 
+System 
+Installed 
+
+Shaft 
+
+100% 
+
+33% 
+
+-- 
+
+Imported 
+
+Shaft 
+Bearings 
+
+100% 
+
+33% 
+
+Yes 
+
+Imported 
+
+CO2 Flooding 
+System 
+Installed 
+
+CO2 Flooding 
+System 
+Installed 
+
+Winding  Bars  have 
+been  kept  as  spares 
+and  can  be  used  if 
+some bars have been 
+affected 
+
+Stamp  Set  have  been 
+kept  as  spares  and 
+can  be  used  if  only 
+some  windings  have 
+been affected 
+
+normally 
+
+Shaft 
+unlikely to give way. 
+
+is 
+
+The  reserve  capacity 
+of  bearing  shall  not 
+let  the  unit  be  down 
+for long periods. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Equipment 
+Name 
+
+Relative Importance 
+
+On 
+Individual 
+Unit 
+
+On Project 
+as a whole 
+
+Reserve 
+Capacity 
+
+Indigenous 
+Importance 
+
+Details of Loss 
+Minimization 
+
+Technical Remarks 
+
+Runner 
+
+100% 
+
+33% 
+
+Yes 
+
+Imported 
+
+ Vibration 
+meters 
+installed for 
+early detection 
+of any damages 
+
+The  reserve  capacity 
+of runner shall not let 
+the  unit  be  down  for 
+long periods. 
+
+Butterfly 
+Valve 
+
+100% 
+
+33.34% 
+
+Yes 
+
+Imported 
+
+-- 
+
+Transformer 
+
+100% 
+
+33% 
+
+Yes 
+
+Indian 
+
+Spray 
+
+Automatic 
+Water 
+System 
+installed 
+
+One  No  Butterfly 
+Valve Controls supply 
+of water to two MIVs. 
+Thus,  one  damage 
+can lead to two  units 
+being  down.  Down 
+time  likely  to  be  less 
+as spare available. 
+
+No. 
+
+spare 
+
+One 
+transformer(103 
+available 
+mva) 
+is 
+which 
+be 
+connected to the line 
+of 
+affected 
+transformer.  
+
+can 
+
+GIS 
+(Individual) 
+
+100% 
+
+100% 
+
+Yes 
+
+Imported 
+
+Sectionalized 
+panels 
+made 
+
+are 
+
+deterioration; 
+No 
+extremely 
+short 
+repair time in case of 
+any fault.  
+
+GIS (Mains) 
+
+100% 
+
+100% 
+
+Yes 
+
+Imported 
+
+-- 
+
+Dam Gates 
+
+-- 
+
+33.3% 
+
+Yes 
+
+Imported 
+
+-- 
+
+deterioration; 
+No 
+short 
+extremely 
+repair time in case of 
+any fault. 
+
+A failure of Dam Gate 
+can 
+lower 
+lead  to 
+water  reservoir  and 
+hence less discharge. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 48 
+
+ 
+Relative Importance 
+
+On 
+Individual 
+Unit 
+
+On Project 
+as a whole 
+
+Reserve 
+Capacity 
+
+Indigenous 
+Importance 
+
+Details of Loss 
+Minimization 
+
+Technical Remarks 
+
+100% 
+
+33% 
+
+Yes 
+
+Imported 
+
+Spares 
+available 
+
+are 
+
+These  can  be  used/ 
+handled  to  run  the 
+machine 
+auto 
+mode 
+
+in 
+
+Equipment 
+Name 
+
+Control 
+Panel (For 
+individual 
+Units) 
+
+The  relative  importance  of  the  critical  items  goes  down  in  the  winter  season  as 
+
+the water flow can be shifted to the standby unit in those days; while any affected 
+
+unit can be put under maintenance / repairs. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 49 
+
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.  PROBABLE MAXIMUM LOSS (PML)  
+
+The PML Assessment is the Probable Maximum Loss that a risk can sustain due 
+
+to fire, explosion or any such incident which is covered under the ambit of policy 
+
+of insurance. 
+
+15.1  PML ASSESSMENT – NATURAL CALAMITY 
+
+We  are  of  the  opinion  that  Maximum  concentration  of  risk  is  at  the 
+
+following areas;  
+
+Sl.  
+No. 
+
+1 
+
+2 
+
+PARTICULARS 
+
+GENERATING PLANT & MACHINERY 
+
+HYDRAULIC WORKS (DAMS) 
+
+Reinstatement 
+Value  
+(Rs. in Crores) 
+
+1,858.31 
+
+2,787.47 
+
+ To arrive at the PML Value, it is pertinent to note the following: 
+
+(a)  These  areas  are  exposed  to  the  catastrophic  risk  of  Earthquake  & 
+
+Flood.  
+
+(b)  The  Generating  Plant  &  Machinery  of  Rs.1,858  Crores 
+
+is 
+
+concentrated  within  the  Power  House,  hence  its  exposure  is  much 
+
+higher.  
+
+In view of the above, the PML Assessment is tabulated as below: 
+
+Sl.  
+No. 
+
+1 
+
+2 
+
+PARTICULARS 
+
+GENERATING  PLANT 
+& MACHINERY 
+
+DAMS  /  TUNNELS  / 
+CIVIL 
+
+All Rs. in Crores 
+
+Reinstatement 
+Value  
+(Rs. in Crores) 
+
+PML due to Risk of 
+Flood 
+
+PML due to Risk 
+of Earthquake 
+
+%age 
+
+Amount  %age  Amount 
+
+1,858 
+
+40.00 
+
+743.20  70.00 
+
+1300.60 
+
+2,787 
+
+10.00 
+
+278.70  30.00 
+
+836.10 
+
+Total =  1,021.90 
+
+2,136.70 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hence,  
+
+PML – Flood 
+
+PML – Earthquake 
+
+= 
+
+= 
+
+INR 1,022 Crores 
+
+INR 2,137 Crores 
+
+The PML for Business Interruption shall be in addition to this and can 
+
+go up to complete indemnity period of 12 Months (INR 594.60 Crores) 
+
+15.2  PML ASSESMENT-MACHINERY BREAKDOWN (MLOP) 
+
+15.2.1 Regarding Machinery Breakdown PML 
+
+The  plant  has  No  past  experience  of  any  major  accidents.  From 
+
+detailed discussions with the project authorities and our experience, 
+
+it is found that hydroelectric projects have got low risk of breakdown.  
+
+Insured is maintaining the stock of necessary critical items / spares. 
+
+Some  of  the  critical  spares.  Main  equipment,  Turbine,  Generator 
+
+etc. are of Toshiba make. Lead time for supply of Critical spares will 
+
+take 6 to 12 months’ time. 
+
+The  possibilities  of  damage  to  turbines  include  breakage  of  guide 
+
+blades,  damage  to  rotor or stator of  the  generator. The amount  of 
+
+maximum  damage  to  generator  can  be  to  the  tune  of  INR  145 
+
+Crores.  The  other  damage  under  breakdown  can  occur 
+
+to 
+
+generating transformer, which is about INR 10 Crores each.  Thus, 
+
+maximum loss in an incidence of breakdown can go up to INR 155 
+
+Crores. 
+
+The possibilities of the major breakdown can be in terms of: 
+
+(a)  Damage to turbines 
+
+(b)  Damage to stator / rotor windings  
+
+(c)  Breakage of guide blades 
+
+(d)  Breakdown of transformer 
+
+(e)  Breakdown of control panels (some malfunction of cards). 
+
+(f)  Failure of some pipe joint leading to water inundation. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Out  of  all  the  above,  the  major  costs  involved  shall  be  damage  to 
+
+stator/ rotor windings of generator or inundation damage. It may be 
+
+noted  that  the  insured  has  sufficient  pump  capacity  to  avoid 
+
+inundation of upper floors.  
+
+We are  of  the  opinion  that  maximum  costs  in  terms  of  Breakdown 
+
+shall not be more than INR 155 Crores in one incident. 
+
+Therefore, 
+
+PML for Breakdown  
+
+= 
+
+INR 155 Crores 
+
+(Material Damage) 
+
+The  damage  on  account  of  breakdown  can  lead  to  stoppage  of 
+
+power  generation.  However  going  by  the  longest  duration  of 
+
+interruption  of  generation  shall  not  be  more  than  1  unit  &  that  too 
+
+not  more  than  12  months.  This  is  possible  only  in  case  where  the 
+
+rotor & stator are severely damaged. 
+
+In  this case the  client shall  be  losing  generation for 1  unit and  the 
+
+loss  on  account  of  business  interruption  shall  not  be  more  than              
+
+INR 200 Crores with 12 months liability period. 
+
+Total PML  
+
+(For Breakdown damage &  
+
+Business Interruption) 
+
+= 
+
+= 
+
+(MLOP) 
+
+INR (155 + 200) Crores  
+
+INR 355 Crores 
+
+15.2.2 PML ASSESMENT- FIRE & ALLIED PERILS 
+
+We  are  not  considering  here  the  damage  on  account  of  natural 
+
+calamities 
+
+for 
+
+the  calculation  of  PML.  However,  as  being 
+
+underground  powerhouse  the  clients  have  taken  adequate  flood 
+
+protection  measures  like  provision  of  floodgates.  Thus  only  the 
+
+damage by fire is possible inside the powerhouse, which has been 
+
+considered by us. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The risk is well protected by dedicated dewatering pumps and other 
+
+protections as explained earlier. 
+
+The various fire zones can be classified as follows: 
+
+  Single phase transformer. 
+
+  Alternator with associated electrical panels. 
+
+  GIS Gas insulated system equipment. 
+
+  Auxiliaries  belonging  to  one  generating  unit  comprising  of  unit 
+
+auxiliary transformer, lightning arrestor and voltage transformer 
+
+and  grounding  cubicles  and  bus  duct  between  generator  and 
+
+generating transformer. 
+
+  Bus duct 
+
+  Battery room with battery charger & distribution board. 
+
+  Station service transformers with control panels. 
+
+Further,  the  fire  can  damage  some  of  the  surrounding  units.  This 
+
+however  can  be  controlled  with  available  safety  and  firefighting 
+
+measures available.   
+
+15.3  Civil Structure   
+
+The  maximum  cost  incurred  in  the  case  of  civil  structure  is  towards  the 
+
+excavation of the power cavern or the transformer cavern. The other costs 
+
+in terms of civil works would be in terms of following: 
+
+(a)  Excavation 
+
+(b)  Rock Bolting 
+
+(c)  Shotcreting 
+
+(d)  RCC slabs for different floors 
+
+(e)  Flooring 
+
+In event of any major fire in the cavern, the maximum damage are likely to 
+
+occur to the RCC frame works or slabs or flooring. 
+
+However, keeping in view the maximum damage that can occur; we are of 
+
+the opinion that maximum loss under Civil Structure can be to the tune of 
+
+INR 65 Crores only. 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.4  Plant & Machinery  
+
+  As  per  the  safety  measure  already  discussed  and  the  spread  of  risk, 
+
+following are the areas where Large Fires can take place: 
+
+(a)  A fire in any of the generating unit. 
+
+(b)  A fire in the transformer hall in any of the transformer. 
+
+(c)  A fire in control panel room. 
+
+(d)  A fire in GIS room. 
+
+(e)  A fire in cable gallery. 
+
+  Of  all  the  above  listed  fires,  the  maximum  loss/  spread  shall  be  in  the 
+
+generating unit. 
+
+15.4.1 Generating Unit 
+
+The  cost  of  each  generating  unit  as  installed  at  each  location  of 
+
+Machine hall shall be around INR 280 Crores. This includes the cost 
+
+of  stator,  rotor,  shaft,  runner  and  other  accessories  installed  on  the 
+
+machine. The fire in one unit can spread to other units however the 
+
+damage to other unit can be limited due to effective water fire fighting 
+
+system  and  the  concrete  enclosure  of  the  individual  unit.  The 
+
+maximum, a fire can damage in the individual unit shall not be more 
+
+than 70% of the cost involved at individual unit. Besides it can cause 
+
+damage to the extent of 30% to other 2 units, are on each side. 
+
+Therefore, 
+
+PML of Generating Unit   = 
+
+INR (70% of INR 280 Crores) 
+
+(On account of fire) 
+
++ 30% of INR 280 x 2 Crores) 
+
+Thus loss due to fire shall be as under: 
+
+Civil Work 
+
+Fire  
+
+Fire PML (MD) (due to Fire) 
+
+= 
+
+= 
+
+= 
+
+= 
+
+= 
+
+INR 196 Crores + 168 Crore  
+
+INR 364 Crores  
+
+INR   65 Crores 
+
+INR 364 Crores  
+
+--------------------- 
+
+INR 429 Crores 
+
+--------------------- 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.5  Business Interruption 
+
+Any  fire  in  the  unit  shall  lead  to  interruption  of  power  generation  to  not 
+
+more  than  1  unit  for  long  periods  &  other  2  units  for  short  duration.  This 
+
+interruption period can be large if the control cables of each unit which are 
+
+passing  on  the  trays  in  open  area  are  also  affected.    However,  going  by 
+
+Sum  Insured,  the  total  revenue  of  plant  is  around  INR  595  Crores 
+
+depending  upon  the  water  availability  &  plant  running  in  the  Interruption 
+
+period. Thus the damage in the above scenario could be INR 450 Crores. 
+
+Therefore, 
+
+Total PML : 
+
+Fire 
+
+= 
+
+INR (429 + 450) Crores 
+
+Material Damage &  
+
+Business Interruption 
+
+= 
+
+INR 879 Crores 
+
+The summary of Probable Maximum Loss (PML) Assessment is as under: 
+
+A  Natural Calamity 
+
+PML – Flood 
+
+PML – Earthquake 
+
+= 
+
+= 
+
+INR 1,022.00 Crores 
+
+INR 2,137.00 Crores 
+
+The PML for BI Shall be in addition to this and can go up to complete indemnity period of 
+
+12 months (INR 594.60 Crore) 
+
+B  Machinery Breakdown 
+
+PML For Breakdown damage & Business Interruption 
+
+= 
+
+INR   355.00 Crores 
+
+C 
+
+Fire & Allied Perils 
+
+PML for Material Damage & Business Interruption  
+
+= 
+
+INR   879.00 Crores 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 55 
+
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.  CONCLUSION & RECOMMENDATIONS   
+
+Teesta-V  Power  Station  is  owned  and  operated  by  NHPC  Limited,  situated  in 
+
+North  eastern  state  Sikkim.  The  installed  capacity  of  Power  Station  is  510  MW 
+
+(3x170).  
+
+  Teesta-V has been designed for a probable maximum flood (PMF) of 9,500 
+
+m3/s. In 2011, CWC revised this to 14,596 m3/s.  
+
+  However,  the  maximum  flood  recorded  over  the  past  20  years  was 
+
+3,397m3/s, in 2002. 
+
+  NHPC  is  monitoring  and  is  conducting  safety  inspections  of  the  dam  and 
+
+other  infrastructure  on  a  regular  basis.  Emergency  action  and  disaster 
+
+management  plans  have  been  prepared 
+
+to  enhance  emergency 
+
+preparedness and response capacity. 
+
+  Site  is  well  connected  by  road  in  all  weather  conditions  and  hence  any 
+
+hindrance in project material can be ruled out. 
+
+  The housekeeping in and around the plant is upto mark. 
+
+  Overall, the project is well maintained and running satisfactory.   
+
+Signed 
+
+PROTOCOL INSURANCE SURVEYORS & LOSS ASSESSORS PVT. LTD. 
+SJ/NS/HM/BG/MP/PS/HN 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.  PHOTOGRAPHS 
+
+Dam  
+
+Power House 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Reservoir 
+
+Switchyard 
+
+Ref. No.2021INS100835-Inspection Report (Teesta-V) 
+
+Page: 58

@@ -1,0 +1,141 @@
+Dataset 1
+
+Field
+
+Insured
+
+Cedant
+
+Broker
+
+Perils Covered
+
+Geographical Limit
+
+Example
+
+Mombasa Shipping Co.
+
+APA Insurance
+
+Minet
+
+Fire and Explosion
+
+Worldwide
+
+Situation of Risk/Voyage
+
+Route: Mombasa–Rotterdam
+
+Occupation of Insured
+
+Main Activities
+
+Power Plant
+
+Aviation Services
+
+Total Sum Insured (TSI) & Breakdown
+
+KES 500,000,000 (Buildings, Machinery, Stock)
+
+Excess/Deductible
+
+Retention of Cedant (%)
+
+Possible Maximum Loss (PML %)
+
+CAT Exposure
+
+Period of Insurance
+
+Reinsurance Deductions
+
+Claims Experience (Last 3 years)
+
+Share Offered (%)
+
+KES 2,000,000
+
+15%
+
+50%
+
+Low (Cyclone)
+
+6 months from 01/07/2025 to 31/12/2025
+
+Taxes 3%
+
+No claims
+
+30%
+
+Risk Surveyor’s Report
+
+Fire protection excellent
+
+Premium Rates
+
+Premium
+
+0.25%
+
+KES 3,500,000
+
+Climate Change Risk Factors
+
+Moderate exposure to flooding
+
+ESG Risk Assessment
+
+% Share (Proposed Acceptance)
+
+Low
+
+25%
+
+Liability (Original currency & KES)
+
+KES 250M
+
+Premium (Original currency & KES)
+
+EUR 50,000 / KES 8M
+
+Remarks
+
+Technical Assessment
+
+Market Considerations
+
+Portfolio Impact
+
+Include terrorism exclusion
+
+Good management, high risk exposure
+
+Limited market appetite
+
+Minimal impact
+
+Proposed Terms & Conditions
+
+Excluding theft losses
+
+Positive Assessment
+
+Final Share Proposal
+
+Signature/Date/Time
+
+Manager’s Comments
+
+Excellent loss history
+
+Decline risk
+
+Underwriter A / 01-10-2025 / 10:30
+
+Approved

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CedaSense - Analytics Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="icon" type="image/png" href="assets/cedasence-logo.jpg">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="header-title">
+        <h1><span class="brand"><img src="assets/cedasence-logo.jpg" alt="CedaSense" class="brand-logo"/> <span>CedaSense Analytics</span></span></h1>
+        <div class="status" id="status">
+          <div class="status-dot"></div>
+          <span>Loading...</span>
+        </div>
+      </div>
+      <div class="header-actions"><button id="analytics-back" class="back-btn" onclick="history.back()">← Back</button> 
+        <a href="index.html" class="btn btn-secondary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            <polyline points="9,22 9,12 15,12 15,22"/>
+          </svg>
+          Dashboard
+        </a>
+        <button class="btn btn-primary" onclick="refreshData()">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/>
+            <path d="M21 3v5h-5"/>
+            <path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/>
+            <path d="M3 21v-5h5"/>
+          </svg>
+          Refresh
+        </button>
+        <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/>
+            <line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/>
+            <line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Key Metrics -->
+    <section class="dashboard-stats">
+      <div class="stat-card">
+        <div class="stat-value" id="total-premium">KES 0</div>
+        <div class="stat-label">Total Premium Volume</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="avg-share">0%</div>
+        <div class="stat-label">Average Share Accepted</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="top-cedant">—</div>
+        <div class="stat-label">Top Cedant</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="risk-exposure">KES 0</div>
+        <div class="stat-label">Total Risk Exposure</div>
+      </div>
+    </section>
+
+    <!-- Time Range Selector -->
+    <section class="controls">
+      <div class="controls-row">
+        <div class="filter-group">
+          <label for="time-range" class="form-label">Time Period:</label>
+          <select class="filter-select" id="time-range" onchange="updateCharts()">
+            <option value="30">Last 30 Days</option>
+            <option value="90" selected>Last 90 Days</option>
+            <option value="180">Last 6 Months</option>
+            <option value="365">Last Year</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <button class="btn btn-secondary" onclick="exportAnalytics()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="7,10 12,15 17,10"/>
+              <line x1="12" y1="15" x2="12" y2="3"/>
+            </svg>
+            Export Report
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Charts Section -->
+    <section class="charts-container">
+      <div class="chart-card">
+        <h3 class="chart-title">Decision Trends</h3>
+        <canvas id="decisionChart" class="chart-canvas"></canvas>
+      </div>
+      
+      <div class="chart-card">
+        <h3 class="chart-title">Premium by Cedant</h3>
+        <canvas id="cedantChart" class="chart-canvas"></canvas>
+      </div>
+      
+      <div class="chart-card">
+        <h3 class="chart-title">Risk Distribution</h3>
+        <canvas id="riskChart" class="chart-canvas"></canvas>
+      </div>
+      
+      <div class="chart-card">
+        <h3 class="chart-title">Acceptance Rate Over Time</h3>
+        <canvas id="acceptanceChart" class="chart-canvas"></canvas>
+      </div>
+    </section>
+
+    <!-- Detailed Analytics Tables -->
+    <section class="table-container">
+      <h3 style="padding: 1.5rem; margin: 0; border-bottom: 1px solid var(--border-primary);">Top Performing Cedants</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Cedant</th>
+            <th>Cases</th>
+            <th>Acceptance Rate</th>
+            <th>Total Premium</th>
+            <th>Avg Share</th>
+          </tr>
+        </thead>
+        <tbody id="cedant-performance"></tbody>
+      </table>
+    </section>
+
+    <br>
+
+    <section class="table-container">
+      <h3 style="padding: 1.5rem; margin: 0; border-bottom: 1px solid var(--border-primary);">Risk Analysis by Peril</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Peril Type</th>
+            <th>Cases</th>
+            <th>Total Exposure</th>
+            <th>Acceptance Rate</th>
+            <th>Avg Premium Rate</th>
+          </tr>
+        </thead>
+        <tbody id="peril-analysis"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 AI4Insurance. Advanced Analytics & Risk Assessment.</p>
+  </footer>
+
+  <div id="notifications"></div>
+
+  <script src="analytics.js"></script>
+</body>
+</html>

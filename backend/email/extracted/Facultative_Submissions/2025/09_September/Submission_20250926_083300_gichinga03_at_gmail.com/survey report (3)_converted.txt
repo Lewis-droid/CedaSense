@@ -1,0 +1,1207 @@
+Client 
+Business Address  
+Location of risk  
+Coordinates 
+Type of risk 
+Conferred with  
+Referred by 
+Surveyed by 
+Date of survey   
+Property/ies to be 
+Covered and Amount 
+
+PROPERTY SURVEY REPORT 
+
+INSPECTION REPORT NO. 25- 
+
+: GLACIER SOUTH REFRIGERATION SERVICES CORPORATION &/OR GLACIER MEGAFRIDGE 
+: Amvel Business Park, San Dionisio, Parañaque City 
+: -same- 
+: 14.492473, 120.992941 
+: Industrial – Cold Storage  
+: Arnel Vera – Assistant Operation Manager 
+: BA Insights 
+: Jing O. Etquibal – Risk Inspector 
+: September 03, 2025 
+
+: GSOUTH PHASE 1 & 2 
+: ITEM 1 – ₱427,077,545.15 – On the building only (excluding foundation), including 
+  improvements and betterment; 
+: ITEM 2 – ₱61,573,225.43 – Racking System; 
+: ITEM 3 – ₱4,289,682.27 – Generator Set; 
+: ITEM 4 – ₱207,126,005.25 – Refrigeration Equipment; 
+: ITEM 5 – ₱25,699,228.31 – Plastic pallets; 
+: ITEM 6 – ₱7,928,929.25 – Office Equipment; 
+: Sub Total – ₱733,694,615.66 
+
+: GSOUTH PHASE 3 & 4 
+: ITEM 7 – ₱381,148,793.28 – On the building only (excluding foundation), including 
+improvements and betterment; 
+: ITEM 8 – ₱63,528,066.00 – Racking System; 
+: ITEM 9 – ₱6,308,081.90 – Generator Set; 
+: ITEM 10 – ₱249,426,592.52 – Machinery and Equipment; 
+: ITEM 11 – ₱4,455,937.44 – Office Equipment; 
+: ITEM 12 – ₱26,255,253.00 – Plastic Pallets 
+: Sub Total – ₱730,942,724.14 
+
+DISCLAIMER  
+This report is prepared mainly for the purpose of evaluating this specific property for risk management and insurance underwriting use of Alpha Insurance & Surety Company. Any opinions, 
+estimates or recommendations stated in this report are based on conditions and practices observed at the site and information gathered  during the survey.  It does not claim that hazards 
+other than those mentioned in this report that does not exist at the premises. 
+
+Glacier Megafridge, Inc. - Company Profile 
+
+Glacier  Megafridge,  Inc.  (GMI)  is  a  cold  chain  storage  and  logistics  service  provider  that  has  been  operating  in  the 
+Philippines since 2005. The company specializes in building, owning, and operating high-performance cold chain facilities 
+for  perishable  goods  such  as  meat,  poultry,  seafood,  and  dairy  products.  GMI's  operations  are  a  combination  of 
+Japanese technology and Filipino talent, with a team possessing over 30 years of combined experience in refrigeration 
+engineering, cold storage management, and logistical transport. The company's goal is to establish a broad network of 
+cold chain support to ensure a safe and secure supply of fresh food is distributed nationwide. 
+
+GMI’s services cater to a diverse clientele including food importers, traders, processors, distributors, and retailers who 
+require logistical support to maintain product freshness. 
+
+========================================================================================== 
+
+Facility and Operations 
+
+Glacier South, GMI's largest facility, is located in the AmVel Business Park in Parañaque and serves the logistical needs of 
+the  southern  half  of  Metro  Manila,  as  well  as  parts  of  Laguna  and  Cavite.  The  facility  is  a  Freon-based  facility  and 
+
+--------------------------------------------------------------------------------------------------- 
+
+1 
+
+                                         I. R. NO. 25-000000000 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+features  an  automatic  shut-off  mechanism  that  activates  once  the  maintenance  temperature  is  reached.  Garbage  is 
+collected by a third-party contractor. 
+
+Storage Specifications: 
+
+  Temperature: The facility maintains temperatures depending on the product, with meat stored at -18 °C and ice 
+
+cream at -25 °C. The facility includes 15 freezer rooms (below -18 °C) and 3 chiller rooms (1 °C to 5 °C). 
+
+  Capacity: The facility comprises two phases with a total capacity of 20,545 pallet positions (10,196 in Phases 1 & 
+
+2 and 10,349 in Phases 3 & 4). Each pallet can hold up to 700 kilograms of products. 
+
+ 
+
+ 
+
+Loading  Docks:  It  has  a  combined  total  of  43  loading  bay  doors  and  23  plug-in  slots  to  handle  refrigerated 
+containers. 
+
+Sales:  The  monthly  average  sales  accommodated  by  the  facility  are  approximately  100  tons,  valued  at  an 
+estimated ₱3.78 billion. 
+
+========================================================================================== 
+
+Company Status 
+
+The company is currently undergoing a merger, with an ongoing agreement for an  80% merger with AYALA Company. 
+The  Glacier  South  facility  is  certified  under  ISO  9001/2015  for  Quality  Management  Systems  and  ISO  22000/2005  for 
+Food Safety Management Systems. 
+
+Cold Storage Facility Process Flow 
+
+Glacier Megafridge, Inc. is a series of logistical steps to ensure the safe and efficient handling of perishable goods. The 
+overall process can be divided into inbound, storage, and outbound operations. 
+
+========================================================================================== 
+
+Inbound Process (Receiving) 
+
+1.  Truck Arrival and Docking: Inbound refrigerated trucks arrive at the facility and back up to an available loading 
+bay  door.  The  facility  has  multiple  loading  bay  doors  and  plug-in  slots  to  accommodate  containers  of  various 
+sizes. 
+
+2.  Product Inspection  and  Receiving:  Perishable  goods, such  as meat, poultry, and  dairy  products, are  unloaded 
+from the trucks. The staff at the ante-rooms or receiving area inspects the products to ensure they meet quality 
+and food safety standards. 
+
+3.  Cross-docking (Optional): If products are not intended for long-term storage, they may be immediately sorted 
+
+and prepared for distribution in a process called cross-docking. 
+
+4.  Data Entry and Inventory Management: The received goods are logged into the inventory management system, 
+assigned a unique location, and prepared for storage. This step is crucial for tracking the product throughout its 
+time in the facility. 
+
+========================================================================================== 
+
+Storage Process 
+
+1.  Transport to Storage  Area:  Products  are  moved  from  the  receiving area to their assigned  storage rooms.  The 
+facility  offers  different  temperature  zones  to  accommodate  various  types  of  goods,  including  freezer  rooms 
+(below -18 °C) and chiller rooms (1 °C to 5 °C). 
+
+2.  Pallet  and  Rack  Placement:  The  products  are  placed  on  multi-level  racks  or  shelves,  utilizing  the  facility's 
+
+extensive pallet positioning capacity. The facility is designed for dense storage to optimize space. 
+
+3.  Temperature  Monitoring:  The  temperature  of  each  storage  room  is  continuously  monitored  to  ensure  food 
+
+quality preservation and compliance with stringent hygiene standards. 
+
+========================================================================================== 
+
+Outbound Process (Shipping) 
+
+1.  Order Picking and Assembly:  When  an  order is received, the  required products are  picked from  their storage 
+
+locations. This may include sorting and mixing products to fulfill specific client orders. 
+
+--------------------------------------------------------------------------------------------------- 
+
+2 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+2.  Staging and Preparation: The assembled orders are moved to a staging area, like an ante-room, where they are 
+
+prepared for loading. 
+
+3.  Loading  and  Dispatch:  The  prepared  orders  are  loaded  onto  outbound  refrigerated  trucks  at  the  loading  bay 
+doors. The trucks are then dispatched for delivery to distributors, retail outlets, or other points of consumption 
+nationwide. 
+
+BUILDING DESCRIPTION 
+No. of Buildings  
+Risk Construction 
+
+: 1  
+: SAID BUILDING, of lofty two-storey in height with mezzanine, constructed of concrete and/or 
+concrete  hollow  blocks  in  a  steel  frame  structure  with  polyurethane  insulated  panel  cladding, 
+under partly roof deck and galvanized iron sheet roofing; (PHASE 1 & 2) 
+
+Occupancy  
+
+: Occupied mainly as cold storage known as “GLACIER MEGAFRIDGE”, and office; 
+
+Boundaries 
+Front  
+
+Right  
+Left    
+Rear   
+
+No. of Buildings  
+Risk Construction 
+
+:  
+: by its own compound driveway and parking lot thence by Parañaque River, leading to 
+  Unnamed Road; 
+: by Parañaque River; 
+: by a lofty two-storey Class "A" building occupied as Yusen Logistics Philippines Inc.; 
+: by business park driveway; 
+
+: 1  
+: SAID BUILDING, of lofty two-storey in height with mezzanine, constructed of concrete and/or 
+concrete  hollow  blocks  in  a  steel  frame  structure  with  polyurethane  insulated  panel  cladding, 
+under partly roof deck and galvanized iron sheet roofing; (PHASE 3 & 4) 
+
+Occupancy  
+
+: Occupied mainly as cold storage and office; 
+
+Boundaries 
+Front  
+Right  
+Left    
+Rear   
+
+:  
+: by By its own compound driveway and parking lot thence by Parañaque River; 
+: by Parañaque River; 
+: by a lofty two-storey Class "A" building occupied as Yusen Logistics Philippines Inc.; 
+: by business park driveway; 
+
+: 
+Clauses and Warranties  
+Industrial Occupancy Warranty I 
+Payments of Documentary Stamp Tax Warranty  
+Property Damage Clarification Clause 
+War and Terrorism Exclusion Clause 
+Other warranties and clauses as per underwriting discretion 
+
+Tariff Interpretation 
+Recommended Rate 
+
+: 6.1.1.”A” 
+: 0.2921% - F/L with AP (IC discounted rate) 
+
+Base Rate: 0.403% 
+
+FIRE PROTECTION SYSTEM 
+
+Portable and Wheeled Fire Extinguishers   
+Sprinkler System   
+Hydrant System 
+Fire Alarm System 
+Fire Brigade  
+Lightning Arrester  
+  Water tanks  
+  Pumps 
+
+Available  
+Available  
+Available 
+Available 
+4 to 9 minutes away from the nearest local fire brigade station. 
+Available 
+Available  
+Available  
+
+SERVICES & UTILITIES 
+
+1.  Electrical Source – specify capacity/rating  
+
+a. MERALCO 
+b.  Stand by Generator 
+
+available 
+available 
+--------------------------------------------------------------------------------------------------- 
+
+3 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. Transformer 
+d.  Sub-Station  
+e.  Feeder Lines  
+
+available 
+
+2.  Water Source – specify no. of units and capacity  
+
+a. MAYNILAD 
+b.  Deep Well  
+c.  Elevated tank    
+d.  Cistern Tank  
+
+3.  Air-conditioning System 
+a. Split-type 
+b. Cabinet Type  
+c. Cooling Tower   
+d.  Centralized  
+
+4.  Air Compressor 
+
+a. No. of Units 
+b.  Horse Power  
+
+available 
+Nil 
+NIL 
+Available (Fire Cistern) 
+
+Available 
+Variant Refrigerant Flow (VRF) 
+
+available 
+
+5.  Steam Supply  
+
+Nil 
+
+a. No. of units 
+b. Boiler 
+c. Rating 
+
+6. Lifts 
+
+6.  Boiler 
+
+a. No. of units 
+b. Boiler 
+c. Rating 
+
+available (forklifts, jack lifts) 
+
+Nil 
+
+7.  Generator Set  
+
+a. No. of Units  
+b. Capacity Rating  
+
+Available 
+2 Units (Mitsubishi) 
+688 KW 
+
+SECURITY SYSTEM and BURGLARY CONTROL 
+
+  High Wire Mesh and Fence Wall: Strong physical perimeter. 
+  24/7 Security Guards: Continuous on-site presence. 
+  60 Units of CCTV Cameras with 30 Days Recording: Extensive surveillance coverage, providing deterrent and 
+
+forensic capabilities. 
+
+LOSS HISTORY 
+1.  For the last 5 years  
+2.  Nature Of Loss  
+3.  Extent of Loss  
+4.  Areas Affected  
+5.  Period of Indemnification  
+
+COMMON HAZARDS 
+
+1. Housekeeping: 
+
+Nil 
+
+  a) Indoor: LOW TO MODERATE. The indoor cold storage areas appear generally clean and well-organized, with 
+items  stored  on  racking  systems  and  plastic  pallets.  This  suggests  a  professional  approach  to  inventory 
+management. However, some appears to be minor clutter or disorganization in non-storage areas, preventing a 
+rating of "Low." 
+
+--------------------------------------------------------------------------------------------------- 
+
+4 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  b)  Outdoor:  MODERATE.  The  exterior  of  the  facility,  particularly  the  yard  and  areas  around  the  refrigeration 
+equipment,  shows  significant  signs  of  moderate  housekeeping  which  can  be  manageable.  This  key  area  for 
+improvement. 
+
+2. Electrical Installation: MODERATE. The facility has a dedicated transformer and complex electrical systems to power 
+its  refrigeration  units.  While  there's  no  direct  evidence  of  poor  installation,  the  sheer  scale  and  importance  of  the 
+electrical  infrastructure—as  a  key  ignition  source—warrants  a  "Moderate"  rating.  A  lack  of  visible,  documented 
+preventative maintenance (such as thermographic surveys) for this critical system contributes to this rating. 
+
+3.  General  Surroundings:  LOW  TO  MODERATE.  While  the  property's  proximity  to  the  Parañaque  River  is  a  flood 
+exposure, the 1.5-meter elevation of the building significantly mitigates this risk. This design choice is a key protective 
+feature against minor to moderate flooding events. The adjacent building remains an external exposure. 
+
+4. Smoking: LOW. The company's ISO certifications for quality and food safety suggest a strict, enforced non-smoking 
+policy to maintain a safe and clean environment. 
+
+5.  Maintenance  and  Repair:  MODERATE.  The  company's  extensive  experience  and  ISO  certifications  are  strong 
+indicators  of  a  professional  maintenance  culture.  However,  the  critical  nature  and  high  value  of the  refrigeration  and 
+electrical equipment warrant a vigilant approach that could not be fully confirmed during the survey. 
+
+6. Storage Practice:  LOW  TO  MODERATE.  The use of professional racking systems  and  over 20,000  pallet positions  is 
+standard for cold storage. The  availability  of a  sprinkler system  significantly mitigates  the fire  risk associated with  the 
+high-piled stock, moving this rating from "Moderate" down to a "Low to Moderate" range. 
+
+Exposure Assessment 
+
+Exposure Index: 
+-  NIL 
+0   
+-  LOW 
+1 to 3 
+
+P e r i l s 
+Fire & Lightning 
+
+Exposure Index 
+4 
+
+4 to 6 
+7 to 9 
+
+-  MODERATE 
+-  HIGH 
+
+R e m a r k s 
+
+The presence of a sprinkler system, along with portable extinguishers, a hydrant system, fire alarm system, and lightning 
+arresters, significantly mitigates the fire  risk.  The sheer volume  of combustible materials still prevents  a "Low" rating, 
+but the comprehensive fire protection infrastructure drastically reduces the exposure from "High." 
+
+Earthquake   
+
+5 
+
+The Philippines' seismic activity poses a significant threat to the large, multi-story structure with its high-density racking 
+systems and sensitive refrigeration equipment. This risk remains unchanged. 
+
+Typhoon   
+
+4 
+
+Philippines  is  highly  prone  to  typhoons.  Wind  damage  to  roofing,  external  equipment  (some  corrosion  noted),  and 
+potential water ingress pose a risk to the structure and contents. 
+
+Flood 
+
+4 
+
+The explicit location on the Parañaque River makes flooding a primary concern. A major flood event would likely result in 
+a total loss of equipment and stored goods. This risk remains unchanged and is a key vulnerability. 
+
+Riot, Strike & Malicious Damage 
+
+3 
+
+The presence of a security team, a controlled business park environment, and perimeter fencing mitigates this risk. 
+
+Falling Aircraft 
+
+1 
+
+The location of risk is far from any commercial or International / domestic flights station area.  
+
+Vehicle Impact 
+
+3 
+
+The  busy  loading  docks  and  congested  yard  increase  the  risk  of  a  vehicle  impacting  the  building  or  key  external 
+equipment. 
+
+Explosion  
+
+3 
+
+No materials with a high explosion hazard were identified. The risk of a refrigeration-related explosion is minimal in a 
+well-maintained facility. 
+
+--------------------------------------------------------------------------------------------------- 
+
+5 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sabotage & Terrorism 
+
+1 
+
+The nature of the business does not make it a likely target for these events. 
+
+BOWTAP   
+
+4 
+
+The extensive plumbing for the sprinkler system, hydrant system, and refrigeration systems increases the risk of a burst 
+or overflow event. The availability of water tanks and pumps suggests some level of control over the water supply. 
+
+Sprinkler Leakage  
+
+4 
+
+With the confirmation of an available sprinkler system, this exposure is now relevant. A system malfunction could cause 
+significant water damage to the stored goods. 
+
+Loss of Rent  
+
+0 
+
+The facility is owner-occupied, mitigating this exposure. 
+
+Loss of Profit/Business Interruption   6 
+
+A  catastrophic  event  from  any  of  the  high-rated  perils  (e.g.,  Earthquake,  Flood)  would  halt  operations,  leading  to  a 
+complete cessation of business and significant financial loss. The reliance on continuous operation for the food supply 
+chain makes this exposure severe. 
+
+Electrical Fire 
+
+3 
+
+The  presence  of  a  transformer  and  a  stand-by  generator  indicates  a  robust  electrical  setup.  The  risk  is  reduced  from 
+"High" to "Moderate" due to the professional nature of the installation and available backup, but it remains a primary 
+ignition source. 
+
+Burglary/Robbery  
+
+3 
+
+The  robust  security  system,  including  24/7  guards  and  extensive  CCTV  cameras  with  30-day  recording,  effectively 
+mitigates this risk. 
+
+LOSS ESTIMATES 
+
+Possible Maximum Loss (PML) 
+
+Possible Maximum Loss is a  loss that may occur when the most unfavorable circumstances are more or less 
+exceptionally  combined,  and  when,  as  a  consequence,  fire  is  not  or  unsatisfactorily  fought  against  and  is 
+therefore only stopped by impassable obstacle or by lack of combustible materials. 
+
+The risk can be divided into several fire-areas numbered in the following; 
+
+1. No. of Fire Areas  
+2. Buildings involved  
+3. Percentage of Loss 
+
+1 Fire Area 
+3 Buildings 
+100% of MAS 
+
+ Maximum Probable Loss (MPL) 
+
+Maximum  Probable  Loss  is  a  loss  that  may  occur  under  circumstances  assuming  all  existing  fire  protection 
+functioning as intended and competent private or public fire brigade assistance is available. 
+
+Considering the construction / isolation of the buildings, combustible loading and the available fire protection, 
+MPL is estimated at around 30% of the entire risk. 
+
+Prepared by  
+
+: Jing O. Etquibal 
+                Risk Inspector   
+
+Check by 
+
+: Joselito Manalaysay 
+
+Approved By   
+
+: RODELIO M. REVECHE   
+  SAVP - Underwriting 
+
+: MACARIO P. CORPUZ 
+    SVP-Underwriting 
+
+--------------------------------------------------------------------------------------------------- 
+
+6 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opinion of the Risk 
+
+The Glacier Megafridge facility presents a solid, professionally managed risk. The company's significant investment in its 
+infrastructure and operations, including a sprinkler system and robust security. The ongoing merger with Ayala Company 
+is a strong vote of confidence in the business and likely provides additional financial stability. 
+
+However, the facility remains highly exposed to Earthquake and Flood, which are inherent to its location. The Business 
+Interruption exposure is also severe due to the sheer volume and value of the products handled. 
+
+The risk is ACCEPTABLE for All-Risk insurance purposes. The premiums should reflect the remaining high exposures to 
+flood, earthquake, and business interruption. The client should be strongly encouraged to act on the recommendations 
+to further reduce their overall risk profile and secure their long-term operations. 
+
+Risk Management Survey Report – Glacier South Refrigeration Services Corporation &/Or Glacier Megafridge 
+Fire Underwriting Department  
+Alpha Insurance &Surety Company, Inc. 
+
+Hazard Assessment 
+Assessment Results 
+SEISMIC HAZARD ASSESSMENT 
+
+Nearest Active Fault 
+Ground Rupture 
+Ground Shaking 
+Earthquake-Induced Landslide 
+Liquefaction 
+Tsunami 
+
+Approximately 6.3 km west of the Valley Fault System: West Valley Fault 
+Safe 
+Prone; Intensity VIII 
+Temporarily Unavailable 
+High Potential 
+Prone; Inundation depth: 3 to 3.99 meters 
+
+VOLCANIC HAZARD ASSESSMENT 
+
+Approximately 53.3 km north of Taal 
+
+Nearest Active Volcano 
+Nearest Potentially Active Volcano  Approximately 46.7 km east of Corregidor; No immediate volcanic hazard threat 
+Permanent Danger Zone 
+Ballistic Projectiles 
+Base Surge 
+Volcanic Tsunami 
+Ashfall 
+Nearest Inactive Volcano  
+
+Outside 
+Safe 
+Safe 
+Safe 
+Prone 
+Approximately 32.4 km northwest of Talim (part of laguna caldera); No immediate volcanic hazard 
+threat 
+
+Flood (MGB) 
+Storm Surge (PAGASA) 
+Severe Wind (PAGASA) 
+
+High Susceptibility; 1 to 2 meters flood height and/or more than 3 days flooding 
+Safe 
+117.1 - 220 kph (20-year return period); 117.1 - 220 kph (500-year return period) 
+
+HYDRO-METEOROLOGICAL HAZARD ASSESSMENT 
+
+NEAREST CRITICAL FACILITIES 
+
+Nearest Public Elementary School  Paranaque Elementary School Unit Ii (420 m) 
+Nearest Public Secondary School  Paranaque Nhs - La Huerta Annex (928 m) 
+Nearest Government Health 
+Facility 
+Nearest Private Health Facility 
+Nearest Primary Road Network  Quirino Avenue; City Of Parataque (first District) (494 m) 
+Nearest Secondary Road Network  Ninoy Aquino Ave; City Of Parataque (first District) (86 m) 
+
+San Dionisio Health Center (432 m) 
+
+Foundation Of Our Lady Of Peace Mission, Inc.-our Lady Of Peace Hospital (1 km) 
+
+--------------------------------------------------------------------------------------------------- 
+
+7 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Phase 2 
+
+Phase 3 
+
+SITEMAP 
+
+Phase 4 
+
+Phase 1 
+
+FLOODMAP 
+
+--------------------------------------------------------------------------------------------------- 
+
+8 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entrance Area of Cold Storage 
+
+Safety Reminder inside the Cold Storage 
+
+Inside the hallway of Cold Storage 
+
+Chiller B 
+
+Cold Storage Hallway 
+
+Cold Storage Hallway 
+
+Stocks on the Cold Storage Hallway 
+
+4 level racking inside the Cold Storage 
+
+--------------------------------------------------------------------------------------------------- 
+
+9 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inside the Cold Storage 
+
+Racking level inside the Cold Storage 
+
+Cold storage temperature meter 
+
+5 level storage racking 
+
+Fire hose cabinet 
+
+Phase 1 facade 
+
+Transformer 
+
+--------------------------------------------------------------------------------------------------- 
+
+10 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HVAC 
+
+HVAC on the rear portion of Phase 1 
+
+Transformer on the rear portion of Phase 1 
+
+MRF area located at rear portion of Phase1 
+
+Rear driveway of Phase 1 & 2 
+
+Phase 3 facade 
+
+Compound driveway area of Phase 3 & 4 
+
+Transformer located at Phase 3 & 4 compound 
+
+--------------------------------------------------------------------------------------------------- 
+
+11 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compound driveway entrance of Phase 3 & 4 
+
+Fire pump 
+
+Water pump 
+
+Fire and Jockey pump 
+
+--------------------------------------------------------------------------------------------------- 
+
+12 
+
+                                         I. R. NO. 25-000000000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Phase 2 facade 
+
+Phase 1 facade 
+
+Phase 1 & 2 compound driveway 
+
+Phase 1 & 2 driveway area 
+
+Phase 1 & 2 compound driveway area 
+
+--------------------------------------------------------------------------------------------------- 
+
+13 
+
+                                         I. R. NO. 25-000000000

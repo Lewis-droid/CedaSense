@@ -1,0 +1,319 @@
+(function () {
+  const API_URL = (function resolveApi() {
+    const urlParam = new URLSearchParams(window.location.search).get('api');
+    return urlParam || 'http://127.0.0.1:5000/api/decisions';
+  })();
+
+  // DOM elements
+  const statusEl = document.getElementById('status');
+  const casesEl = document.getElementById('cases');
+  const searchInput = document.getElementById('search-input');
+  const decisionFilter = document.getElementById('decision-filter');
+  const sortBy = document.getElementById('sort-by');
+  const emptyState = document.getElementById('empty-state');
+  
+  // Stats elements
+  const totalCasesEl = document.getElementById('total-cases');
+  const acceptedCasesEl = document.getElementById('accepted-cases');
+  const declinedCasesEl = document.getElementById('declined-cases');
+  const acceptanceRateEl = document.getElementById('acceptance-rate');
+
+  // Global data
+  let allCases = [];
+  let filteredCases = [];
+
+  // Theme management
+  function initTheme() {
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+  }
+
+  window.toggleTheme = function() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    showNotification('Theme changed to ' + newTheme + ' mode', 'success');
+  };
+
+  // Notification system
+  function showNotification(message, type = 'success') {
+    const notification = document.createElement('div');
+    notification.className = `notification ${type}`;
+    notification.textContent = message;
+    
+    document.getElementById('notifications').appendChild(notification);
+    
+    setTimeout(() => {
+      notification.remove();
+    }, 3000);
+  }
+
+  // Utility functions
+  function td(text, className = '') {
+    const e = document.createElement('td');
+    e.textContent = text;
+    if (className) e.className = className;
+    return e;
+  }
+
+  
+  function safeText(v) {
+    if (v === null || v === undefined || v === '') return '—';
+    try {
+      const t = String(v).replace(/\s+/g, ' ').trim();
+      return t || '—';
+    } catch (e) {
+      return '—';
+    }
+  }
+function decisionBadge(textValue) {
+    const span = document.createElement('span');
+    const v = (textValue || 'N/A').toLowerCase();
+    span.className = `badge ${v === 'accept' ? 'accept' : v === 'decline' ? 'decline' : 'pending'}`;
+    span.textContent = textValue || 'N/A';
+    return span;
+  }
+
+  function formatCurrency(amount) {
+    if (!amount || isNaN(amount)) return '—';
+    return new Intl.NumberFormat('en-KE', {
+      style: 'currency',
+      currency: 'KES',
+      minimumFractionDigits: 0,
+      maximumFractionDigits: 0
+    }).format(amount);
+  }
+
+  // Statistics calculation
+  function updateStats(cases) {
+    const total = cases.length;
+    const accepted = cases.filter(c => c.Decision?.toLowerCase() === 'accept').length;
+    const declined = cases.filter(c => c.Decision?.toLowerCase() === 'decline').length;
+    const acceptanceRate = total > 0 ? Math.round((accepted / total) * 100) : 0;
+
+    totalCasesEl.textContent = total;
+    acceptedCasesEl.textContent = accepted;
+    declinedCasesEl.textContent = declined;
+    acceptanceRateEl.textContent = acceptanceRate + '%';
+  }
+
+  // Table rendering
+  function renderTable(cases) {
+    casesEl.innerHTML = '';
+    
+    if (cases.length === 0) {
+      emptyState.style.display = 'block';
+      document.querySelector('.table-container').style.display = 'none';
+      return;
+    }
+
+    emptyState.style.display = 'none';
+    document.querySelector('.table-container').style.display = 'block';
+
+    cases.forEach((item, i) => {
+      const tr = document.createElement('tr');
+      
+      const numCell = document.createElement('td');
+      const numLink = document.createElement('a');
+      numLink.href = `detail.html?${query}`;
+      numLink.textContent = String(i + 1);
+      numLink.className = 'link-view';
+      numLink.title = 'View full report';
+      numLink.addEventListener('click', function() {
+        try { localStorage.setItem('detailApi', targetApi); localStorage.setItem('detailIndex', idxStr); } catch (e) {}
+      });
+      numCell.appendChild(numLink);
+      tr.appendChild(numCell);
+      tr.appendChild(td(safeText(item.Insured)));
+      tr.appendChild(td(safeText(item.Cedant)));
+      tr.appendChild(td(safeText(item.Broker)));
+      
+      const decisionCell = document.createElement('td');
+      decisionCell.appendChild(decisionBadge(item.Decision));
+      tr.appendChild(decisionCell);
+      
+      tr.appendChild(td(((Number(item.Accepted_Share_Pct)||0)) + '%'));
+      tr.appendChild(td(formatCurrency(Number(item.Accepted_Premium_KES)||0)));
+      
+      // Actions cell
+      const actionsCell = document.createElement('td');
+      const viewBtn = document.createElement('a');
+      const targetApi = new URL(API_URL, window.location.href).toString();
+      const stableIndex = typeof item.__idx === 'number' ? item.__idx : allCases.indexOf(item);
+      const idxStr = String(stableIndex < 0 ? 0 : stableIndex);
+      const query = new URLSearchParams({ id: idxStr, api: targetApi }).toString();
+      viewBtn.href = `detail.html?${query}`;
+            viewBtn.className = 'btn btn-primary';
+      viewBtn.style.fontSize = '0.75rem';
+      viewBtn.style.padding = '0.25rem 0.5rem';
+      viewBtn.textContent = 'View Report';
+      viewBtn.setAttribute('title','View full working sheet');
+      
+      // Persist selection as a fallback for detail view
+      viewBtn.addEventListener('click', function() {
+        try {
+          localStorage.setItem('detailApi', targetApi);
+          localStorage.setItem('detailIndex', idxStr);
+        } catch (e) {}
+      });
+    
+      actionsCell.appendChild(viewBtn);
+      const spaceNode = document.createTextNode(" ");
+      actionsCell.appendChild(spaceNode);
+      
+      
+    
+      tr.appendChild(actionsCell);
+      
+      casesEl.appendChild(tr);
+    });
+  }
+
+  // Filtering and searching
+  window.filterTable = function() {
+    const searchTerm = searchInput.value.toLowerCase();
+    const decisionValue = decisionFilter.value.toLowerCase();
+
+    filteredCases = allCases.filter(item => {
+      const matchesSearch = !searchTerm || 
+        (item.Insured || '').toLowerCase().includes(searchTerm) ||
+        (item.Cedant || '').toLowerCase().includes(searchTerm) ||
+        (item.Broker || '').toLowerCase().includes(searchTerm);
+
+      const matchesDecision = !decisionValue || 
+        (item.Decision || '').toLowerCase() === decisionValue;
+
+      return matchesSearch && matchesDecision;
+    });
+
+    renderTable(filteredCases);
+    updateStats(filteredCases);
+  };
+
+  // Sorting
+  window.sortTable = function() {
+    const sortValue = sortBy.value;
+    if (!sortValue) return;
+
+    const sortMap = {
+      'insured': (a, b) => (a.Insured || '').localeCompare(b.Insured || ''),
+      'cedant': (a, b) => (a.Cedant || '').localeCompare(b.Cedant || ''),
+      'decision': (a, b) => (a.Decision || '').localeCompare(b.Decision || ''),
+      'share': (a, b) => (b.Accepted_Share_Pct || 0) - (a.Accepted_Share_Pct || 0)
+    };
+
+    if (sortMap[sortValue]) {
+      filteredCases.sort(sortMap[sortValue]);
+      renderTable(filteredCases);
+    }
+  };
+
+  // Clear filters
+  window.clearFilters = function() {
+    searchInput.value = '';
+    decisionFilter.value = '';
+    sortBy.value = '';
+    filteredCases = [...allCases];
+    renderTable(filteredCases);
+    updateStats(filteredCases);
+    showNotification('Filters cleared', 'success');
+  };
+
+  // Data refresh
+  window.refreshData = function() {
+    load();
+  };
+
+  // Export functionality
+  window.exportData = function() {
+    if (filteredCases.length === 0) {
+      showNotification('No data to export', 'error');
+      return;
+    }
+
+    const csvContent = generateCSV(filteredCases);
+    downloadCSV(csvContent, 'facultative_cases_' + new Date().toISOString().split('T')[0] + '.csv');
+    showNotification('Data exported successfully', 'success');
+  };
+
+  function generateCSV(data) {
+    const headers = ['#', 'Insured', 'Cedant', 'Broker', 'Decision', 'Accepted Share (%)', 'Premium (KES)'];
+    const rows = data.map((item, i) => [
+      i + 1,
+      item.Insured || '',
+      item.Cedant || '',
+      item.Broker || '',
+      item.Decision || '',
+      item.Accepted_Share_Pct || 0,
+      item.Accepted_Premium_KES || 0
+    ]);
+
+    return [headers, ...rows]
+      .map(row => row.map(field => `"${field}"`).join(','))
+      .join('\n');
+  }
+
+  function downloadCSV(content, filename) {
+    const blob = new Blob([content], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    const url = URL.createObjectURL(blob);
+    link.setAttribute('href', url);
+    link.setAttribute('download', filename);
+    link.style.visibility = 'hidden';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  }
+
+  // Main load function
+  async function load() {
+    statusEl.innerHTML = '<div class="status-dot"></div><span>Loading...</span>';
+    
+    try {
+      const res = await fetch(API_URL, { credentials: 'omit' });
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+      }
+      
+      const data = await res.json();
+      if (!Array.isArray(data)) {
+        throw new Error('Invalid API response format');
+      }
+
+      allCases = data.map((it, idx) => ({ ...it, __idx: idx }));
+      filteredCases = [...allCases];
+      
+      renderTable(filteredCases);
+      updateStats(filteredCases);
+      
+      statusEl.innerHTML = `
+        <div class="status-dot"></div>
+        <span>Loaded ${data.length} case${data.length !== 1 ? 's' : ''}</span>
+      `;
+
+      showNotification(`Successfully loaded ${data.length} cases`, 'success');
+      
+    } catch (err) {
+      console.error('Load error:', err);
+      statusEl.innerHTML = `
+        <div style="width: 8px; height: 8px; border-radius: 50%; background-color: var(--danger-500);"></div>
+        <span>Failed to load data</span>
+      `;
+      
+      showNotification('Failed to load data. Please check if the backend is running.', 'error');
+      
+      // Show empty state
+      emptyState.style.display = 'block';
+      document.querySelector('.table-container').style.display = 'none';
+    }
+  }
+
+  // Initialize
+  initTheme();
+  load();
+
+  // Auto-refresh every 5 minutes
+  setInterval(load, 5 * 60 * 1000);
+
+})(); 

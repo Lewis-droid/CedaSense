@@ -1,0 +1,141 @@
+Dataset 8
+
+Field
+
+Insured
+
+Cedant
+
+Broker
+
+Perils Covered
+
+Geographical Limit
+
+Example
+
+ABC Manufacturing Ltd.
+
+Britam
+
+Marsh Kenya
+
+Machinery Breakdown
+
+Kenya
+
+Situation of Risk/Voyage
+
+Route: Mombasa–Rotterdam
+
+Occupation of Insured
+
+Main Activities
+
+Hospital
+
+Aviation Services
+
+Total Sum Insured (TSI) & Breakdown
+
+KES 500,000,000 (Buildings, Machinery, Stock)
+
+Excess/Deductible
+
+Retention of Cedant (%)
+
+Possible Maximum Loss (PML %)
+
+CAT Exposure
+
+Period of Insurance
+
+Reinsurance Deductions
+
+Claims Experience (Last 3 years)
+
+Share Offered (%)
+
+KES 5,000,000
+
+10%
+
+30%
+
+Medium (Flood)
+
+6 months from 01/07/2025 to 31/12/2025
+
+Levies 1%
+
+No claims
+
+20%
+
+Risk Surveyor’s Report
+
+Safety measures adequate
+
+Premium Rates
+
+Premium
+
+2.5‰
+
+KES 3,500,000
+
+Climate Change Risk Factors
+
+High exposure to drought
+
+ESG Risk Assessment
+
+% Share (Proposed Acceptance)
+
+Low
+
+40%
+
+Liability (Original currency & KES)
+
+USD 1M / KES 150M
+
+Premium (Original currency & KES)
+
+USD 20,000 / KES 3M
+
+Remarks
+
+Technical Assessment
+
+Market Considerations
+
+Portfolio Impact
+
+Subject to improved fire safety
+
+Old building, moderate risk
+
+High demand
+
+Increases exposure to marine risk
+
+Proposed Terms & Conditions
+
+Warranted sprinkler systems operational
+
+Positive Assessment
+
+Final Share Proposal
+
+Signature/Date/Time
+
+Manager’s Comments
+
+Comprehensive fire systems
+
+Accept 25%
+
+Underwriter B / 02-10-2025 / 11:00
+
+Review needed

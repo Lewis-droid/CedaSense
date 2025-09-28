@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CedaSense - Working Sheet</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="detail.css" />
+</head>
+<body>
+  <header>
+    <div class="brand"><img src="assets/cedasence-logo.jpg" alt="CedaSense" class="brand-logo"/> <h1>CedaSense Working Sheet</h1></div>
+    <div class="status" id="status">Loading…</div>
+      <div class="header-actions"><button id="back-btn" class="back-btn" onclick="history.back()">← Back</button></div>
+      <div class="header-actions"><button id="print-btn" class="back-btn" onclick="window.print()">🖨️ Print / Save PDF</button></div>
+  </header>
+
+  <main>
+    <section class="sheet" id="sheet">
+      <div class="sheet-head">
+        <div><b>Insured:</b> <span id="f-insured">—</span></div>
+        <div><b>Cedant:</b> <span id="f-cedant">—</span></div>
+        <div><b>Broker:</b> <span id="f-broker">—</span></div>
+        <div><b>Decision:</b> <span id="f-decision" class="badge">—</span></div>
+      </div>
+
+      <table class="sheet-table">
+        <thead>
+          <tr>
+            <th>Column 1 (Guideline)</th>
+            <th>Column 2 (Explanation / What to Capture)</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <!-- rows populated by detail.js -->
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <small>Use query like detail.html?id=0 to view a specific case</small>
+  </footer>
+
+  <script src="detail.js"></script>
+</body>
+</html> 

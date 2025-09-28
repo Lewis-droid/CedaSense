@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CedaSense - Case Manager</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="assets/cedasence-logo.jpg">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="header-title">
+        <h1><span class="brand"><img src="assets/cedasence-logo.jpg" alt="CedaSense" class="brand-logo"/> <span>CedaSense Case Manager</span></span></h1>
+        <div class="status" id="status">
+          <div class="status-dot"></div>
+          <span>Ready</span>
+        </div>
+      </div>
+      <div class="header-actions">
+        <a href="index.html" class="btn btn-secondary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            <polyline points="9,22 9,12 15,12 15,22"/>
+          </svg>
+          Dashboard
+        </a>
+        <a href="analytics.html" class="btn btn-secondary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="20" x2="18" y2="10"/>
+            <line x1="12" y1="20" x2="12" y2="4"/>
+            <line x1="6" y1="20" x2="6" y2="14"/>
+          </svg>
+          Analytics
+        </a>
+        <button class="btn btn-primary" onclick="openNewCaseModal()">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="12" y1="5" x2="12" y2="19"/>
+            <line x1="5" y1="12" x2="19" y2="12"/>
+          </svg>
+          New Case
+        </button>
+        <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark mode">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/>
+            <line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/>
+            <line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Quick Stats -->
+    <section class="dashboard-stats">
+      <div class="stat-card">
+        <div class="stat-value" id="pending-cases">0</div>
+        <div class="stat-label">Pending Review</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="draft-cases">0</div>
+        <div class="stat-label">Draft Cases</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="urgent-cases">0</div>
+        <div class="stat-label">Urgent Cases</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="total-managed">0</div>
+        <div class="stat-label">Total Managed</div>
+      </div>
+    </section>
+
+    <!-- Filters and Actions -->
+    <section class="controls">
+      <div class="controls-row">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"/>
+            <path d="m21 21-4.35-4.35"/>
+          </svg>
+          <input 
+            type="text" 
+            class="search-input" 
+            placeholder="Search cases..." 
+            id="search-input"
+            onkeyup="filterCases()"
+          />
+        </div>
+        <div class="filter-group">
+          <select class="filter-select" id="status-filter" onchange="filterCases()">
+            <option value="">All Status</option>
+            <option value="draft">Draft</option>
+            <option value="pending">Pending Review</option>
+            <option value="approved">Approved</option>
+            <option value="rejected">Rejected</option>
+          </select>
+          <select class="filter-select" id="priority-filter" onchange="filterCases()">
+            <option value="">All Priorities</option>
+            <option value="high">High</option>
+            <option value="medium">Medium</option>
+            <option value="low">Low</option>
+          </select>
+          <button class="btn btn-secondary" onclick="clearFilters()">Clear</button>
+          <button class="btn btn-success" onclick="bulkApprove()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="20,6 9,17 4,12"/>
+            </svg>
+            Bulk Approve
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cases Table -->
+    <section class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th><input type="checkbox" id="select-all" onchange="toggleSelectAll()"></th>
+            <th>Case ID</th>
+            <th>Insured</th>
+            <th>Cedant</th>
+            <th>Status</th>
+            <th>Priority</th>
+            <th>Premium (KES)</th>
+            <th>Created</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="cases-table"></tbody>
+      </table>
+    </section>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="text-center" style="display: none; padding: 4rem; color: var(--text-secondary);">
+      <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" style="margin: 0 auto 1rem; opacity: 0.5;">
+        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+        <line x1="16" y1="2" x2="16" y2="6"/>
+        <line x1="8" y1="2" x2="8" y2="6"/>
+        <line x1="3" y1="10" x2="21" y2="10"/>
+      </svg>
+      <h3>No cases found</h3>
+      <p>Create your first case or adjust your filters</p>
+      <button class="btn btn-primary" onclick="openNewCaseModal()">Create New Case</button>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 AI4Insurance. Case Management System.</p>
+  </footer>
+
+  <!-- New/Edit Case Modal -->
+  <div id="case-modal" class="modal-overlay" style="display: none;">
+    <div class="modal">
+      <div class="modal-header">
+        <h2 class="modal-title" id="modal-title">New Case</h2>
+        <button class="modal-close" onclick="closeCaseModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="case-form">
+          <div class="form-group">
+            <label class="form-label" for="case-insured">Insured *</label>
+            <input type="text" class="form-input" id="case-insured" required>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-cedant">Cedant *</label>
+            <input type="text" class="form-input" id="case-cedant" required>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-broker">Broker</label>
+            <input type="text" class="form-input" id="case-broker">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-perils">Perils Covered *</label>
+            <input type="text" class="form-input" id="case-perils" required placeholder="e.g., Fire, Explosion, Theft">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-tsi">Total Sum Insured (KES) *</label>
+            <input type="number" class="form-input" id="case-tsi" required min="0" step="1000">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-premium">Premium (KES) *</label>
+            <input type="number" class="form-input" id="case-premium" required min="0" step="100">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-share">Share Offered (%)</label>
+            <input type="number" class="form-input" id="case-share" min="0" max="100" step="0.1">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-priority">Priority</label>
+            <select class="form-select" id="case-priority">
+              <option value="medium">Medium</option>
+              <option value="high">High</option>
+              <option value="low">Low</option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="case-notes">Notes</label>
+            <textarea class="form-textarea" id="case-notes" placeholder="Additional notes or comments..."></textarea>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" onclick="closeCaseModal()">Cancel</button>
+        <button type="button" class="btn btn-primary" onclick="saveDraft()">Save as Draft</button>
+        <button type="button" class="btn btn-success" onclick="submitCase()">Submit for Review</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Confirmation Modal -->
+  <div id="confirm-modal" class="modal-overlay" style="display: none;">
+    <div class="modal" style="max-width: 400px;">
+      <div class="modal-header">
+        <h2 class="modal-title">Confirm Action</h2>
+        <button class="modal-close" onclick="closeConfirmModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p id="confirm-message">Are you sure you want to perform this action?</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" onclick="closeConfirmModal()">Cancel</button>
+        <button type="button" class="btn btn-danger" id="confirm-action" onclick="confirmAction()">Confirm</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="notifications"></div>
+
+  <script src="case-manager.js"></script>
+</body>
+</html>
