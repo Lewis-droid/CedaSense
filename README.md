@@ -32,3 +32,5 @@ frontend/index.html?api=http://localhost:5000/api/decisions
 ```
 
 Ensure the backend is running first. 
+
+Run main.py in Backend...comined folder...use python3.12 for stable launch of product...
